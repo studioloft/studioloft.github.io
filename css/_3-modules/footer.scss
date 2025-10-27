@@ -216,6 +216,8 @@
   line-height: 24px;
   text-align: center;
   color: var(--text-alt-color);
+  display: flex;
+  justify-content: space-between;
 
   a {
     text-decoration: underline;
@@ -232,4 +234,14 @@
   @media (max-width: $desktop) {
     text-align: left;
   }
+}
+
+.left-text {
+    text-align: left;
+    // other styles...
+}
+
+.right-text {
+  text-align: right;
+  // other styles...
 }
