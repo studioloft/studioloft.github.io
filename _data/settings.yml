@@ -153,8 +153,9 @@ footer_description: Here, I share ideas, tools, and methods that help me balance
 #-------------------------------
 # Social Settings
 social:
-- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com"}
+- {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://youtube.com/@Studioloftmedia"}
+- {icon: "fa-brands fa-tiktok", name: "TikTok", link: "https://tiktok.com/@studioloftmedia"}
+- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com/studioloft"}
 - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
 - {icon: "fa-brands fa-reddit-alien", name: "Reddit", link: "https://reddit.com"}
 - {icon: "fa-brands fa-github", name: "Github", link: "https://github.com"}
