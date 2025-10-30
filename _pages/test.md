@@ -1,7 +1,7 @@
 ---
 layout: fullpage
-title: Elements
-permalink: /elements/
+title: TestElements
+permalink: /testelements/
 image: '/images/17.jpg'
 ---
 
