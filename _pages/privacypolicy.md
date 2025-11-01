@@ -14,20 +14,22 @@ Our website address is: https://www.cyberuncovered.com.
 <h3>Types of data we collect</h3>
 <h5>Non-Personal Usage-Data:</h5>
 Usage Data is collected automatically when using this website. Usage Data may include information such as:
-
-Your device’s Internet Protocol address (e.g. IP address).
-<li>The approximate geolocation of your IP address.</li>
-<li>TBrowser and OS type / version.</li>
-<li>TThe pages that you visit and time spent on those pages.</li>
-<li>TThe time and date of your visit.</li>
-<li>TUnique device identifiers and other diagnostic data.</li>
-<li>TThe referrer URL (the web location that linked you to us).</li>
+    <ul>
+        <li>Your device’s Internet Protocol address (e.g. IP address).</li>
+        <li>The approximate geolocation of your IP address.</li>
+        <li>TBrowser and OS type / version.</li>
+        <li>TThe pages that you visit and time spent on those pages.</li>
+        <li>TThe time and date of your visit.</li>
+        <li>TUnique device identifiers and other diagnostic data.</li>
+        <li>TThe referrer URL (the web location that linked you to us).</li>
+    </ul>
 This data is used and collected for the following purposes:
-
+<ul>
 <li>TUnderstanding how individuals use this site with the intent to better optimize the website and services.</li>
 <li>TUnderstanding site performance by analyzing total visitors over time.</li>
 <li>TDiagnose and debug technical issues.</li>
 <li>TProtect and defend this website against abuse and technical attacks.</li>
+</ul>
 <h5>Personal-Data:</h5>
 Personal data refers to information that can be used to identify you personally. Your name or email address will only be collected if you explicitly provide it to us through a contact form or comment on this website. When visitors leave comments on the site we collect the data shown and left by the user in the comments form.
 
@@ -54,12 +56,13 @@ Visitor comments may be checked through an automated spam detection service.
 
 <h3>Disclosure over your data</h3>
 Cyber Uncovered may disclose Your Personal Data in the good faith belief that such action is necessary to:
+<ul>
 <li>Comply with a legal obligation</li>
 <li>Protect and defend the rights or property of Cyber Uncovered</li>
 <li>Prevent or investigate possible wrongdoing in connection with the service</li>
 <li>Protect the personal safety of users of the service or the public</li>
 <li>Protect against legal liability</li>
-
+</ul>
 <h3>Security of your data</h3>
 The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your data, we cannot guarantee its absolute security.
 
