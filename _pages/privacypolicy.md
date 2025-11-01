@@ -14,7 +14,6 @@ Our website address is: https://www.cyberuncovered.com.
 <h3>Types of data we collect</h3>
 <h5>Non-Personal Usage-Data:</h5>
 Usage Data is collected automatically when using this website. Usage Data may include information such as:
-<ul>
 <li>Your device’s Internet Protocol address (e.g. IP address).</li>
 <li>The approximate geolocation of your IP address.</li>
 <li>Browser and OS type / version.</li>
@@ -22,7 +21,6 @@ Usage Data is collected automatically when using this website. Usage Data may in
 <li>The time and date of your visit.</li>
 <li>Unique device identifiers and other diagnostic data.</li>
 <li>The referrer URL (the web location that linked you to us).</li>
-</ul>
 <br>
 This data is used and collected for the following purposes:
 <ul>
@@ -31,7 +29,6 @@ This data is used and collected for the following purposes:
 <li>Diagnose and debug technical issues.</li>
 <li>Protect and defend this website against abuse and technical attacks.</li>
 </ul>
-<br>
 <h5>Personal-Data:</h5>
 Personal data refers to information that can be used to identify you personally. Your name or email address will only be collected if you explicitly provide it to us through a contact form or comment on this website. When visitors leave comments on the site we collect the data shown and left by the user in the comments form.
 
