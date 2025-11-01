@@ -4,7 +4,8 @@ title: Disclaimer
 permalink: /disclaimer/
 ---
 
-Last updated: December 1, 2021
+Last updated: October 11, 2025
+
 <h3>Disclosure</h3>
 The information contained on the service is for general information purposes only.
 
