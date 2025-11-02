@@ -22,7 +22,7 @@ Studio Loft Media includes links to external websites that are not provided or m
 
 Studio Loft Media does not warrant that this service or external content featured within this service is free of viruses or other harmful components.
 
-For additional information please refer to our <a href="https://studioloft.github.io/privacypolicy/">Privacy Policy</a> page.
+For additional information please refer to our <a href="/privacypolicy/">Privacy Policy</a> page.
 
 <h3>Errors and Omissions Disclaimer</h3>
 The information given by Studio Loft Media is for general guidance on matters of interest only. Even if the we take every precaution to insure that the content of this service is both current and accurate, errors can occur. Plus, given the changing nature of laws, rules and regulations, there may be delays, omissions or inaccuracies in the information contained on this service.
@@ -59,4 +59,4 @@ We may update our Disclaimer from time to time. We will notify you of any change
 You are advised to review this Disclaimer periodically for any changes. Changes to this Disclaimer are effective when they are posted on this page.
 
 <h3>Contact us</h3>
-If you have any questions about this Disclaimer, you can contact us at contact@studioloftmedia.com or by visiting the <a href="https://studioloft.github.io/contact/">Contact</a> page.
+If you have any questions about this Disclaimer, you can contact us at contact@studioloftmedia.com or by visiting the <a href="/contact/">Contact</a> page.

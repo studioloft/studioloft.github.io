@@ -23,4 +23,4 @@ If you remix, transform, or build upon the material, you must distribute your co
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">https://creativecommons.org/licenses/by-nc-sa/4.0/</a>
 <br><br>
 <h3>Contact us</h3>
-If you have any questions about this Copyright or to discuss use and licensing, you can contact us at contact@studioloftmedia.com or by visiting the <a href="https://studioloft.github.io/contact/">Contact</a> page.
+If you have any questions about this Copyright or to discuss use and licensing, you can contact us at contact@studioloftmedia.com or by visiting the <a href="/contact/">Contact</a> page.
