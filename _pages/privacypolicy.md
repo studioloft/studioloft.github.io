@@ -36,7 +36,7 @@ This data is used and collected for the following purposes:
 Personal data refers to information that can be used to identify you personally. Your name or email address will only be collected if you explicitly provide it to us through a contact form or comment on this website. When visitors leave comments on the site we collect the data shown and left by the user in the comments form.
 
 <h3>Retention of data</h3>
-Cyber Uncovered will retain your data only for as long as is necessary for the purposes set out in this Privacy Policy. Cyber Uncovered will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our service.
+Studio Loft Media will retain your data only for as long as is necessary for the purposes set out in this Privacy Policy. Studio Loft Media will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our service.
 
 If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
@@ -45,7 +45,7 @@ Your information, including Personal Data, is processed in any place where the p
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-Should data need to be transferred, Cyber Uncovered will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+Should data need to be transferred, Studio Loft Media will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 <h3>Who we share your data with</h3>
 If you request a password reset, your IP address will be included in the reset email.
@@ -57,10 +57,10 @@ If you have an account on this site, or have left comments, you can request to r
 Visitor comments may be checked through an automated spam detection service.
 
 <h3>Disclosure over your data</h3>
-Cyber Uncovered may disclose Your Personal Data in the good faith belief that such action is necessary to:
+Studio Loft Media may disclose Your Personal Data in the good faith belief that such action is necessary to:
 <ul>
 <li>Comply with a legal obligation</li>
-<li>Protect and defend the rights or property of Cyber Uncovered</li>
+<li>Protect and defend the rights or property of Studio Loft Media</li>
 <li>Prevent or investigate possible wrongdoing in connection with the service</li>
 <li>Protect the personal safety of users of the service or the public</li>
 <li>Protect against legal liability</li>
@@ -74,18 +74,18 @@ Our service does not address anyone under the age of 13. We do not knowingly col
 <h3>Embedded content from other websites</h3>
 Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website. We strongly advise You to review the Privacy Policy of every site you visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-Cyber Uncovered includes links to external websites that are not provided or maintained by or in any way affiliated with our site. Please note that Cyber Uncovered does not guarantee the accuract, relevance, timeliness, or completeness of any information on these external websites.
+Studio Loft Media includes links to external websites that are not provided or maintained by or in any way affiliated with our site. Please note that Studio Loft Media does not guarantee the accuract, relevance, timeliness, or completeness of any information on these external websites.
 
-Cyber Uncovered does not warrant that this service or external content featured within this service is free of viruses or other harmful components.
+Studio Loft Media does not warrant that this service or external content featured within this service is free of viruses or other harmful components.
 
 <h3>Disclosure</h3>
 The information contained on the service is for general information purposes only.
 
-Cyber Uncovered is provided with good intentions on an “as-is” basis, without warranty, and disclaiming liability for damages.
+Studio Loft Media is provided with good intentions on an “as-is” basis, without warranty, and disclaiming liability for damages.
 
-Cyber Uncovered is not a law firm. As such, the Cyber Uncovered website and contributors are not providing legal advice. The material and recommendations in our website and guides do not constitute legal advice nor does contributing to the website or communicating with Cyber Uncovered or other contributors about our website create an attorney-client relationship.
+Studio Loft Media is not a law firm. As such, the Studio Loft Media website and contributors are not providing legal advice. The material and recommendations in our website and guides do not constitute legal advice nor does contributing to the website or communicating with Studio Loft Media or other contributors about our website create an attorney-client relationship.
 
-Cyber Uncovered additionally does not warrant that this website will be constantly available, or available at all.
+Studio Loft Media additionally does not warrant that this website will be constantly available, or available at all.
 
 For additional information please refer to our Disclaimer page.
 
