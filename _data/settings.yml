@@ -2,8 +2,8 @@
 # Site Settings
 title: Studio Loft Media
 description: Elevate your craft. Master your media.
-logo: # You can add own logo. For example '/images/logo.png'.
-logo_dark:
+logo: '/images/brand/sl-logo-black-474x100.png' # You can add own logo. For example '/images/logo.png'.
+logo_dark: '/images/brand/sl-logo-white-474x100.png'
 
 
 #-------------------------------
