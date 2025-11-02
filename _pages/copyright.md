@@ -22,5 +22,8 @@ If you remix, transform, or build upon the material, you must distribute your co
 
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">https://creativecommons.org/licenses/by-nc-sa/4.0/</a>
 <br><br>
-<h3>Contact us</h3>
+<h3>Source Code</h3>
+The underlying source code used to format and display content on this site is licensed via <a href="https://jekyllthemes.io/">Do Make Ltd</a> page.
+<br><br>
+<h3>Contact Us</h3>
 If you have any questions about this Copyright or to discuss use and licensing, you can contact us at contact@studioloftmedia.com or by visiting the <a href="/contact/">Contact</a> page.
