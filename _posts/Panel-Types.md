@@ -2,7 +2,7 @@
 layout: post
 title: Panel Types
 description: Protect your digital world with practical guides and insights into cybersecurity. Whether you’re just getting started or want to deepen your knowledge, you’ll find everything from data protection basics to advanced encryption techniques, all designed to keep your information safe and private.
-date: 2025-11-02 15:01:35 +0300
+date: 2025-11-01 15:01:35 +0300
 image: '/images/content/panels-v1.png'
 tags: [Technology]
 tags_color: '#de47e2'
