@@ -9,13 +9,12 @@ permalink: /copyright/
 <h1><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><i class="fa-brands fa-creative-commons"></i> <i class="fa-brands fa-creative-commons-by"></i>  <i class="fa-brands fa-creative-commons-nc"></i>  <i class="fa-brands fa-creative-commons-sa"></i> CC BY NC SA</a></h1>
 <br>
 <h3><i class="fa-brands fa-creative-commons"></i> Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International —</h3>
-<br>
-<h4>You are free to:</H4>
+<h5>You are free to:</H5>
 <b>Share</B> — copy and redistribute the material in any medium or format.
 <br>
 <b>Adapt</b> — remix, transform, and build upon the material.
 <br>
-<H4>Under the following terms:</h4>
+<H5>Under the following terms:</h5>
 <h4><i class="fa-brands fa-creative-commons-by"></i> Attribution —</h4>
 You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 <h4><i class="fa-brands fa-creative-commons-nc"></i> NonCommercial —</h4>
