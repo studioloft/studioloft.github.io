@@ -19,9 +19,11 @@ layout: default
         </div>
         {% else %}
         {% if page.image %}
-        <div class="post-image">
-          <img class="lazy" data-src="{{ page.image | relative_url }}" alt="{{ page.title }}">
-        </div>
+          <div class="post-image">
+            <a href="{{ page.image }}" data-lightbox="post" data-title="{{ page.title }}">
+            <img src="{{ page.image }}" alt="{{ page.title }}">
+            </a>
+          </div>
         {% endif %}
         {% endif %}
 
@@ -36,12 +38,6 @@ layout: default
           {% endif %}
 
           <h1 class="post-title">{{ page.title | escape }}</h1>
-
-          <div class="post-image">
-  <a href="{{ page.image }}" data-lightbox="post" data-title="{{ page.title }}">
-    <img src="{{ page.image }}" alt="{{ page.title }}">
-  </a>
-</div>
 
           <div class="post-meta">
             <a href="{{ '/about/' |relative_url }}" class="post-meta__image">
