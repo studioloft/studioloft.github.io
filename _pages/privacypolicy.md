@@ -96,4 +96,4 @@ We may update Our Privacy Policy from time to time. We will notify you of any ch
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 <h3>Contact us</h3>
-If you have any questions about this Privacy Policy, You can contact us at contact@cyberuncovered.com or by visiting the Contact page.
+If you have any questions about this Privacy Policy, You can contact us at contact@studioloftmedia.com or by visiting the <a href="https://studioloft.github.io/contact/">Contact</a> page.

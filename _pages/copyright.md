@@ -23,6 +23,6 @@ You may not use the material for commercial purposes.
 If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">https://creativecommons.org/licenses/by-nc-sa/4.0/</a>
-
+<br>
 <h3>Contact us</h3>
-If you have any questions about this Copyright or to discuss use and licensing, you can contact us at contact@studioloftmedia.com or by visiting the Contact page.
+If you have any questions about this Copyright or to discuss use and licensing, you can contact us at contact@studioloftmedia.com or by visiting the C<a href="https://studioloft.github.io/contact/">Contact</a> page.
