@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacypolicy/
 ---
 
-<p style="text-align: center;">TLast updated: November 1, 2025</p>
+<p style="text-align: center;">Last updated: November 1, 2025</p>
 
 <h3>Interpretation</h3>
 This Privacy Policy describes our policies and procedures on the collection, use and disclosure of your information when you use this service and tells you about your privacy rights and how the law protects you. By using the service, you agree to the collection and use of information in accordance with this Privacy Policy.
