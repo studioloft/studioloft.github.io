@@ -9,7 +9,8 @@ permalink: /privacypolicy/
 <h3>Interpretation</h3>
 This Privacy Policy describes our policies and procedures on the collection, use and disclosure of your information when you use this service and tells you about your privacy rights and how the law protects you. By using the service, you agree to the collection and use of information in accordance with this Privacy Policy.
 <h3>Who we are</h3>
-Our website address is: https://www.cyberuncovered.com.
+Our website address is: https://www.studioloftmedia.com.
+We are known as "Studio Loft" or "Studio Loft Media".
 
 <h3>Types of data we collect</h3>
 <h5>Non-Personal Usage-Data:</h5>
