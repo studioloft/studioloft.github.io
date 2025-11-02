@@ -4,7 +4,6 @@ title: Panel Types
 description: In today’s fast-paced tech world, productivity is a skill that every coder and tech enthusiast needs to thrive. From managing projects to balancing personal development, effective time management allows you to stay focused, reduce stress, and maximize your output.
 date: 2025-11-01 15:01:35 +0300
 image: '/images/content/panels.png'
-video_embed: https://www.youtube.com/embed/58BHUsD24vs?si=4tBmh4UKz93bTCus
 tags: [Technology]
 tags_color: '#3eb99a'
 ---
