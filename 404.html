@@ -21,7 +21,45 @@ permalink: /404.html
 
 
 
+<div class="drifting-image" aria-hidden="true">
+  <img src="/images/meme/sad-cat.webp" alt="">
+</div>
 
+<style>
+  .drifting-image {
+    --size: 500px;
+    --opacity: 0.1;
+    position: fixed;
+    inset: 0;
+    display: grid;
+    place-items: center;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .drifting-image img {
+    width: var(--size);
+    opacity: var(--opacity);
+    object-fit: contain;
+    animation:
+      floatX 40s linear infinite alternate,
+      floatY 60s ease-in-out infinite alternate,
+      spin 120s linear infinite;
+  }
+
+  @keyframes floatX {
+    0%   { transform: translateX(-40vw); }
+    100% { transform: translateX(40vw); }
+  }
+  @keyframes floatY {
+    0%   { transform: translateY(-10vh); }
+    100% { transform: translateY(10vh); }
+  }
+  @keyframes spin {
+    0%   { rotate: 0deg; }
+    100% { rotate: 1.5deg; }
+  }
+</style>
 
 
 
