@@ -15,7 +15,7 @@ Studio Loft Media is not a law firm. As such, the Studio Loft Media website and 
 
 Studio Loft Media additionally does not warrant that this website will be constantly available, or available at all.
 
-<h3>DEmbedded Content and External Links Disclaimer</h3>
+<h3>Embedded Content and External Links Disclaimer</h3>
 Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website. We strongly advise You to review the Privacy Policy of every site you visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
 Studio Loft Media includes links to external websites that are not provided or maintained by or in any way affiliated with our site. Please note that Studio Loft Media does not guarantee the accuract, relevance, timeliness, or completeness of any information on these external websites.
