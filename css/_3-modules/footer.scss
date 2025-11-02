@@ -234,5 +234,27 @@
   }
 }
 .rightfoot {
+  border-top: 1px solid var(--border-color);
+  padding: 32px 0;
+  font-family: $heading-font-family;
+  font-size: 14px;
+  line-height: 24px;
   text-align: right;
+  color: var(--text-alt-color);
+
+  a {
+    text-decoration: underline;
+    text-decoration-color: transparent;
+    text-underline-offset: 2px;
+    color: var(--heading-font-color);
+
+    &:hover {
+      text-decoration-color: var(--heading-font-color);
+      color: var(--heading-font-color);
+    }
+  }
+
+  @media (max-width: $desktop) {
+    text-align: right;
+  }
 }
