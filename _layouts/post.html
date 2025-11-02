@@ -19,9 +19,13 @@ layout: default
         </div>
         {% else %}
         {% if page.image %}
+        <div class="post-image">
+          <img class="lazy" data-src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+        </div>
+        {% endif %}
+        {% endif %}
 
-        {% endif %}
-        {% endif %}
+          <h1 class="post-title">{{ page.title | escape }}</h1>
 
         <div class="post-info">
           {% if page.tags.size >= 1 %}
@@ -32,8 +36,6 @@ layout: default
             {% endfor %}
           </div>
           {% endif %}
-
-          <h1 class="post-title">{{ page.title | escape }}</h1>
 
           <div class="post-meta">
             <a href="{{ '/about/' |relative_url }}" class="post-meta__image">
