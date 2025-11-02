@@ -23,66 +23,41 @@ permalink: /404.html
 
 
 
-<!-- Place near the top of <body> -->
+
+
 <div class="drifting-image" aria-hidden="true">
-  <img src="/images/meme/sad-cat.webp" alt="">
+  <img id="wanderer" src="/images/meme/sad-cat.webp" alt="">
 </div>
 
 <style>
-  /* ---- configurable knobs ---- */
-  .drifting-image {
-    --size: 500px;        /* target size of the image */
-    --opacity: 0.1;       /* 10% opacity */
-    --duration: 60s;      /* how long it takes to cross the screen */
-    --z: 0;               /* 0 = under text, 10 = above text */
-  }
-
-  /* ---- positioning & layering ---- */
   .drifting-image {
     position: fixed;
-    inset: 0;             /* full viewport */
-    pointer-events: none; /* don’t block clicks */
-    z-index: var(--z);
+    inset: 0;
     display: grid;
-    place-items: center;  /* start roughly centered before animation offset */
-    overflow: hidden;
+    place-items: center;
+    pointer-events: none;
+    z-index: 0;
   }
 
-  .drifting-image img {
-    width: var(--size);
-    height: var(--size);
-    object-fit: contain;
-    opacity: var(--opacity);
-    /* start slightly off-screen left; drift to off-screen right */
-    animation: drift var(--duration) linear infinite;
-    will-change: transform;
-  }
-
-  /* ---- the motion ----
-     Starts off the left edge, passes through center, exits right.
-     Y has a tiny sinusoidal-ish wobble for a “floaty” feel. */
-  @keyframes drift {
-    0%   { transform: translate(calc(-60vw), -6vh) rotate(0deg); }
-    25%  { transform: translate(calc(-20vw),  3vh) rotate(0.4deg); }
-    50%  { transform: translate(  20vw,     -2vh) rotate(-0.3deg); }
-    75%  { transform: translate(  60vw,      4vh) rotate(0.2deg); }
-    100% { transform: translate( 110vw,     -5vh) rotate(0deg); }
-  }
-
-  /* ---- responsiveness: keep it within viewport on small screens ---- */
-  @media (max-width: 600px) {
-    .drifting-image { --size: min(70vw, 70vh); }
-  }
-
-  /* ---- keep your text above/below by tweaking z-indexes ---- */
-  /* If you want the image UNDER text: keep --z: 0 and give text a higher z-index */
-  main, h1, p, .content { position: relative; z-index: 1; }
-
-  /* Accessibility: respect reduced motion */
-  @media (prefers-reduced-motion: reduce) {
-    .drifting-image img { animation: none; }
+  #wanderer {
+    width: 500px;
+    opacity: 0.1;
+    position: absolute;
+    transition: transform 60s linear;
   }
 </style>
+
+<script>
+  const img = document.getElementById('wanderer');
+  function randomMove() {
+    const x = Math.random() * 80 - 40; // -40vw to +40vw
+    const y = Math.random() * 40 - 20; // -20vh to +20vh
+    img.style.transform = `translate(${x}vw, ${y}vh) rotate(${(Math.random()-0.5)*3}deg)`;
+  }
+
+  randomMove(); // initial position
+  setInterval(randomMove, 60000); // move every 60s
+</script>
 
 
 
