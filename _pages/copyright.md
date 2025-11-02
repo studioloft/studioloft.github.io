@@ -6,8 +6,6 @@ permalink: /copyright/
 
 <p style="text-align: center;">Last updated: November 1, 2025</p>
 
-<h1><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><i class="fa-brands fa-creative-commons"></i> <i class="fa-brands fa-creative-commons-by"></i>  <i class="fa-brands fa-creative-commons-nc"></i>  <i class="fa-brands fa-creative-commons-sa"></i> CC BY NC SA</a></h1>
-<br>
 <h3><i class="fa-brands fa-creative-commons"></i> Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International —</h3>
 <h5>You are free to:</H5>
 <b>Share</B> — copy and redistribute the material in any medium or format.
