@@ -4,7 +4,7 @@ title: Keeping Your Files and Messages Secure
 description: Protect your digital world with practical guides and insights into cybersecurity. Whether you’re just getting started or want to deepen your knowledge, you’ll find everything from data protection basics to advanced encryption techniques, all designed to keep your information safe and private.
 date: 2024-11-02 15:01:35 +0300
 image: '/images/30.jpg'
-tags: [helloworld]
+tags: [Security]
 tags_color: '#de47e2'
 ---
 
