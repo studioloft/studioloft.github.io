@@ -19,7 +19,7 @@ Structure your to-do list with high-priority items at the top.
 
 Productivity isn’t just about working hard but also about working smart. Knowing when to take breaks is crucial to avoiding burnout. Working continuously can reduce your efficiency and creativity, so take regular breaks to recharge. Even a five-minute walk or a short stretch can help clear your mind and reset your focus.
 
-![Workflow](/images/06-1.jpg)
+![Workflow](/images/content/panels.png)
 *Photo by [Katt](https://www.lummi.ai/creator/kattlatte) on [Lummi](https://www.lummi.ai/)*
 
 Decluttering your workspace has a significant impact on productivity. A neat, organized desk makes it easier to find what you need, reducing distractions. Digital decluttering is equally important—organize files and folders on your computer, and uninstall unnecessary apps.
@@ -29,9 +29,8 @@ Decluttering your workspace has a significant impact on productivity. A neat, or
 Ultimately, productivity comes from building good habits and staying consistent. As you apply these strategies, don’t worry about being perfect. Small, consistent efforts are more effective than trying to achieve perfection. Productivity is an ongoing journey, and with time, you’ll develop a system that works for you.
 
 <div class="gallery-box">
-  <div class="gallery gallery-columns-2">
+  <div class="gallery gallery-columns-1">
     {% include img.html src ="/images/content/panels.png" alt="Microphone" caption="In the world of sound and productivity." %}
-    {% include img.html src ="/images/06-3.jpg" alt="Plant" caption="Turning every moment into productive energy." %}
   </div>
   <p>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></p>
 </div>
