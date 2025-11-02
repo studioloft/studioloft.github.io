@@ -43,14 +43,14 @@ menu_settings:
 # Author Settings
 author:
   author_name: Gavin Hornak
-  author_avatar: /images/01-1.jpg
+  author_avatar: /images/profile/profile-256x256.jpg
 
 
 #-------------------------------
 # Hero Settings
 hero:
   enable: true
-  hero_avatar: /images/01-1.jpg
+  hero_avatar: /images/profile/profile-256x256.jpg
   hero_title: Hi! I’m Gavin 👋
   hero_subtitle: A digital explorer, coder, and Linux advocate
   hero_description: |
