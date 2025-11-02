@@ -6,7 +6,8 @@ permalink: /copyright/
 
 <p style="text-align: center;">Last updated: November 1, 2025</p>
 
-<h1><i class="fa-brands fa-creative-commons"></i> <i class="fa-brands fa-creative-commons-by"></i>  <i class="fa-brands fa-creative-commons-nc"></i>  <i class="fa-brands fa-creative-commons-sa"></i> <a href="https://studioloft.github.io/copyright/">CC BY NC SA</a></h1>
+<p style="text-align: center;"><h1><i class="fa-brands fa-creative-commons"></i> <i class="fa-brands fa-creative-commons-by"></i>  <i class="fa-brands fa-creative-commons-nc"></i>  <i class="fa-brands fa-creative-commons-sa"></i></h1></p>
+<p style="text-align: center;"><h1><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA</a></h1></p>
 <h3><i class="fa-brands fa-creative-commons"></i>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</h3>
 <h4>You are free to:</H4>
 <b>Share</B> — copy and redistribute the material in any medium or format.
