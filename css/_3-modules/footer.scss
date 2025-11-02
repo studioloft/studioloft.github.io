@@ -214,6 +214,7 @@
   font-family: $heading-font-family;
   font-size: 14px;
   line-height: 24px;
+  text-align: left;
   color: var(--text-alt-color);
 
   a {
@@ -227,15 +228,6 @@
       color: var(--heading-font-color);
     }
   }
-
-.copyrightleft {
-  margin-right: auto;
-  text-align: left;
-}
-.copyrighright {
-  margin-left: auto;
-  text-align: right;
-}
 
   @media (max-width: $desktop) {
     text-align: left;
