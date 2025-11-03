@@ -1,7 +1,7 @@
 ---
 layout: fullpage
-title: Brand
-permalink: /brand/
+title: Media Kit
+permalink: /mediakit/
 ---
 
 <p style="text-align: center;">Last updated: November 2, 2025</p>
