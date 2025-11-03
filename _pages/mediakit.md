@@ -15,14 +15,7 @@ Studio Loft Media is not a law firm. As such, the Studio Loft Media website and 
 
 Studio Loft Media additionally does not warrant that this website will be constantly available, or available at all..
 
-<h3>Logo</h3>
-<div class="gallery-box">
-  <div class="gallery gallery-columns-2">
-    {% include img.html src ="/images/brand/sl-logo-white-474x100.png" alt="Workspace" caption="Logo in White Font" %}
-    {% include img.html src ="images/brand/sl-logo-black-474x100.png" caption="Logo in Black Font %}
-  </div>
-  <p>Logo in Black and White</p>
-</div>
+
 
 <h3>Color Palette</h3>
 
