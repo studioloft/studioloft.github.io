@@ -13,7 +13,7 @@ Studio Loft Media is provided with good intentions on an “as-is” basis, with
 
 Studio Loft Media is not a law firm. As such, the Studio Loft Media website and contributors are not providing legal advice. The material and recommendations in our website and guides do not constitute legal advice nor does contributing to the website or communicating with Studio Loft Media or other contributors about our website create an attorney-client relationship.
 
-Studio Loft Media additionally does not warrant that this website will be constantly available, or available at all.
+Studio Loft Media additionally does not warrant that this website will be constantly available, or available at all..
 
 <h3>Logo</h3>
 <div class="gallery-box">
