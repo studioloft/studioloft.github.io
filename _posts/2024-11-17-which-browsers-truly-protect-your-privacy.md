@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Which Browsers Truly Protect Your Privacy?
+title: Which Browsers Truly Protect Your Privacy
 description: Protect your digital world with practical guides and insights into cybersecurity. Whether you’re just getting started or want to deepen your knowledge, you’ll find everything from data protection basics to advanced encryption techniques, all designed to keep your information safe and private.
 date: 2024-11-17 15:01:35 +0300
 image: '/images/16.jpg'
