@@ -166,7 +166,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  form_id: https://formspree.io/f/mdkprwaa # Add your form_id
+  form_id: mdkprwaa # Add your form_id
   button_text: Send Now
 
 # NOTE
