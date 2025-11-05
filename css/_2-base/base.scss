@@ -274,8 +274,3 @@ table td {
   opacity: 1;
   filter: blur(0);
 }
-
-.text-as-h6 {
-  @extend h6;          // grab whatever h6 has (family, size, tracking, etc.)
-  font-weight: 400;    // remove bold
-}

@@ -7,7 +7,7 @@
       {% assign tag = page.tags[0] %} 
       {% assign related_posts = site.posts | where_exp: "post", "post.tags contains tag" | where_exp: "post", "post.url != page.url" %}
       {% for post in related_posts limit:20 %}
-        <p class="text-as-h6"><li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li></p>
+        <h6 class="post-featured-title"><li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li></h6>
       {% endfor %}
     </ul>
   </div>
