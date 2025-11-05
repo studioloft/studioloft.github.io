@@ -4,11 +4,21 @@
 {% if page.tags %}
   <div class="widget widget-related-posts">
     <ul>
-      {% assign tag = page.tags[0] %}
+      {% assign tag = page.tags[0] %} 
       {% assign related_posts = site.posts | where_exp: "post", "post.tags contains tag" | where_exp: "post", "post.url != page.url" %}
-      {% for post in related_posts limit:5 %}
-        <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+      {% for post in related_posts limit:20 %}
+        <li><h3 class="post-featured-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3></li>
       {% endfor %}
     </ul>
   </div>
 {% endif %}
+
+
+<!---
+What this does:
+	•	Checks if the current page has tags (page.tags).
+	•	Takes the first tag (page.tags[0]) — you can change this to loop through multiple tags if you like.
+	•	Finds all posts in site.posts that contain that same tag.
+	•	Excludes the current post itself.
+	•	Lists up to 20 related posts.
+-->
