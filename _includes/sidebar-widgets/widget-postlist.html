@@ -1,13 +1,12 @@
 <div class="widget-sidebar-head">
-    <h2 class="widget-sidebar-title">More posts about {{ page.tags[0] }}</h2>
+    <h2 class="widget-sidebar-title">More on {{ page.tags[0] }}</h2>
 </div>
 {% if page.tags %}
-  <div class="widget widget-related-posts">
-    <h3>More posts about {{ page.tags[0] }}</h3>
+  <div class="widget widget-featured-posts">
     <ul>
       {% assign tag = page.tags[0] %}
       {% assign related_posts = site.posts | where_exp: "post", "post.tags contains tag" | where_exp: "post", "post.url != page.url" %}
-      {% for post in related_posts limit:5 %}
+      {% for post in related_posts limit:50 %}
         <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
