@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Ultimate Guide to Fiber Optic Cable Types
-description: From pixels to perfection — the definitive 2025 guide to choosing the right display technology for your needs.
+description: Explaining the differences between Singlemode, Multimode, and all of their subtypes.
 date: 2025-11-08 15:01:35 +0300
 image: '/images/02-4.jpg'
 tags: [Technology]
