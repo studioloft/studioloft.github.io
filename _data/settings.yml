@@ -69,7 +69,7 @@ logos:
   logos_title: Hero Bar
   logo_image:
     - alt: "Game Boy"
-      image: "/images/1000.jpg"
+      image: <a href="/privacypolicy/">"/images/1000.jpg"</a>
     - alt: "Super Nintendo"
       image: "/images/1001.jpg"
     - alt: "Keyboard"
@@ -84,7 +84,7 @@ logos:
 # Section Blog Settings
 blog:
   enable: true
-  blog_title: The Binary Journal
+  blog_title: Recent Articles
 
 
 #-------------------------------
