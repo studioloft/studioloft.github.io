@@ -3,7 +3,7 @@ layout: post
 title: The Ultimate Guide to Fiber Optic Cable Types
 description: Explaining the differences between Singlemode, Multimode, and all of their subtypes.
 date: 2025-11-08 15:01:35 +0300
-image: '/images/02-4.jpg'
+image: '/images/content/fiberopticcable.png'
 tags: [Technology]
 tags_color: '#3eb99a'
 ---
