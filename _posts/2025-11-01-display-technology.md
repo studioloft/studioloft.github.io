@@ -3,7 +3,7 @@ layout: post
 title: The Ultimate Display Technology Comparison (2025)
 description: From pixels to perfection — the definitive 2025 guide to choosing the right display technology for your needs.
 date: 2025-11-01 15:01:35 +0300
-image: '/images/content/panels.png'
+image: '/images/content/panels-25-11.png'
 tags: [Technology]
 tags_color: '#3eb99a'
 ---
