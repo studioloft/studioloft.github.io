@@ -32,7 +32,7 @@ This article is a practical, user-friendly **display technology comparison** des
 - Explain how each major panel type works  
 - Compare the strengths and weaknesses of LCD, IPS, VA, Mini-LED, OLED, QD-OLED, and MicroLED  
 - Map each technology to real-world use cases like gaming, creative work, home theater, and productivity  
-.
+
 {: .note }
 Understanding the core technology (not just brand marketing) is the single best way to choose a display that actually fits your workflow and environment.
 
@@ -56,6 +56,7 @@ Pixels work by **blocking or allowing light**. Because light must be blocked rat
 - Response time depends on how quickly the crystals physically twist and untwist  
 - Local dimming is required to simulate “per-pixel” control for HDR  
 .
+
 {: .tip }
 Transmissive technologies like TN, IPS, VA, and Mini-LED LCDs excel in **brightness, cost-efficiency, and long-term stability**, which is why they remain so common in monitors and TVs.
 
@@ -73,7 +74,7 @@ The tradeoffs:
 - OLED and QD-OLED use **organic compounds** that can wear out and are susceptible to **burn-in**  
 - Emissive panels are more complex and usually more expensive  
 - Managing brightness vs. longevity is a key engineering challenge  
-.
+
 {: .important }
 Emissive technologies offer the **best image quality** overall, but they carry higher cost and more long-term image retention risks, especially for static UI elements.
 
