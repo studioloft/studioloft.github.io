@@ -74,6 +74,7 @@ The tradeoffs:
 - OLED and QD-OLED use **organic compounds** that can wear out and are susceptible to **burn-in**  
 - Emissive panels are more complex and usually more expensive  
 - Managing brightness vs. longevity is a key engineering challenge  
+ 
 
 {: .important }
 Emissive technologies offer the **best image quality** overall, but they carry higher cost and more long-term image retention risks, especially for static UI elements.
