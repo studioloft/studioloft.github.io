@@ -213,7 +213,7 @@
 .post,
 .page {
   color: var(--text-color);
-
+  h1:target::before,
   h2:target::before,
   h3:target::before,
   h4:target::before,
@@ -223,6 +223,7 @@
     display: block;
     height: 100px;
     margin-top: -80px;
+    scroll-margin-top: 96px;
   }
 
   a:not([class]) {

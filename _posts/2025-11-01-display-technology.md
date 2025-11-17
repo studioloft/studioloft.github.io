@@ -77,7 +77,7 @@ Emissive technologies offer the **best image quality** overall, but they carry h
 
 ---
 
-# <a id="lcd-panels"></a> 3. LCD Panel Types (TN, IPS, VA)
+## <a id="lcd-panels"></a> 3. LCD Panel Types (TN, IPS, VA)
 
 Within the LCD family, most consumer displays are based on three main **panel structures**:
 
