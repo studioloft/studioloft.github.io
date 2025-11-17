@@ -101,9 +101,7 @@ TN is the oldest and simplest LCD variant and is still favored in some **esports
 • Extremely fast response times (sub-1 ms on some gaming panels)  
 • Very low input lag  
 • Generally the cheapest option  
-
 **Cons:**
-
 • Poor viewing angles (colors and contrast shift dramatically off-center)  
 • Lower color accuracy and coverage  
 • Weaker contrast than VA and emissive technologies  
@@ -165,13 +163,11 @@ VA panels prioritize **native contrast**, making them strong for movie watching 
 • Crystals align vertically (blocking light) when “off” and tilt when voltage is applied, providing better light blocking in dark content.
 
 **Pros:**
-
 • Highest contrast among mainstream LCD technologies (often 3000–6000:1)  
 • Deep blacks (for an LCD)  
 • Very good for movies, TV, and general entertainment, especially in dim rooms  
 
 **Cons:**
-
 • Slower transitions between some gray levels can cause **dark smearing** in fast content  
 • Viewing angles are better than TN but worse than IPS  
 • Color consistency can vary across the panel  
@@ -242,14 +238,12 @@ Most consumer OLED TVs and many monitors use **WOLED** (white OLED with color fi
 • Color filters turn it into red, green, and blue  
 
 **Pros:**
-
 • Perfect black levels  
 • Infinite contrast ratio in practical terms  
 • Near-instant response times (excellent motion clarity)  
 • Wide viewing angles with minimal color shift  
 
 **Cons:**
-
 • Risk of **burn-in** or long-term image retention with static elements  
 • Peak brightness is improving but still typically lower than high-end Mini-LED in very bright scenes  
 • Brightness and lifespan management are handled via aggressive ABL (Automatic Brightness Limiting) and panel protection features  
@@ -259,13 +253,11 @@ Most consumer OLED TVs and many monitors use **WOLED** (white OLED with color fi
 QD-OLED uses a **blue OLED emitter** combined with a **quantum-dot conversion layer** for red and green, instead of traditional color filters.
 
 **Advantages vs. standard OLED:**
-
 • Higher color volume and a wider color gamut (approaching Rec.2020)  
 • Better efficiency (more light reaches your eyes)  
 • Higher peak brightness relative to similar WOLED panels  
 
 **Drawbacks:**
-
 • Slight **color fringing** possible on fine text due to non-standard subpixel layout (especially noticeable at certain resolutions and scaling)  
 • Still uses organic emitters → burn-in and aging risks remain  
 
@@ -297,8 +289,7 @@ MicroLED is often described as the **“endgame” display technology** because 
 • No organic compounds → no traditional burn-in risk  
 • Very long lifespan (100,000+ hours)  
 
-**Challenges in 2025:**
-
+**Challenges in 2026:**
 • Extremely expensive to manufacture  
 • Difficult to scale to consumer pricing due to microscopic LED placement and yield issues  
 • Primarily seen in **ultra-premium TVs**, **commercial signage**, or modular video walls  
@@ -392,48 +383,40 @@ This section helps map the display technology comparison to **real-world usage**
 ## For Creatives (Photo, Video, Design, Color Grading)
 
 **Recommended:**
-
 • High-quality **IPS** or **IPS Black** for stability and accuracy  
 • **QD-OLED** (or top-tier OLED) when HDR grading and deep blacks are priorities  
 
 **Why:**
-
 • You need wide gamut (at least DCI-P3), low Delta-E, stable calibration, and good uniformity.  
 • Emissive displays offer unmatched contrast but require careful management for static UI.
 
 ## For Gamers
 
 **Competitive Esports Players:**
-
 • **Fast IPS** or **TN** with 240–360 Hz  
 • Focus on input lag, response time, and motion clarity over contrast  
 
 **Immersive / HDR Gamers:**
-
 • **OLED** or **QD-OLED** monitors or TVs  
 • Deep blacks and instant response massively improve perceived motion clarity and scene depth  
 
 ## For Home Theater & HDR Entertainment
 
 **Dark Room Theater:**
-
 • **OLED** or **QD-OLED** is the gold standard  
 • Perfect black levels and pixel-level dimming are unbeatable for movies and high-end series  
 
 **Bright Living Room:**
-
 • **Mini-LED TV** with strong anti-reflection coating  
 • Higher peak brightness preserves impact in bright scenes and fights glare  
 
 ## For Productivity, Office Work & Reading
 
 **Recommended:**
-
 • **IPS** or **IPS Black** monitors for stable color and comfortable viewing angles  
 • Consider **E-Ink** secondary displays if you read long technical or textual documents frequently  
 
 **Why:**
-
 • Long work sessions demand comfort, predictable behavior, and low visual fatigue.  
 • Burn-in risk on OLED may be a concern with static taskbars, docks, and toolbars.
 
@@ -443,27 +426,27 @@ This section helps map the display technology comparison to **real-world usage**
 
 Use this quick decision sequence to narrow down your options:
 
-1. **Is competitive gaming your top priority?**  
+1 - **Is competitive gaming your top priority?**  
    • Yes → Look at **Fast IPS** or **TN** monitors with 240–360 Hz.  
    • No → Go to step 2.  
 
-2. **Is HDR movie/TV watching in a dark room your main use?**  
+2 - **Is HDR movie/TV watching in a dark room your main use?**  
    • Yes → Choose **OLED** or **QD-OLED**.  
    • No → Go to step 3.  
 
-3. **Will you use the screen in a bright room with lots of ambient light?**  
+3 - **Will you use the screen in a bright room with lots of ambient light?**  
    • Yes → Consider **Mini-LED LCD** for high brightness and HDR.  
    • No → Go to step 4.  
 
-4. **Do you do color-critical creative work (photo, video, design)?**  
+4 - **Do you do color-critical creative work (photo, video, design)?**  
    • Yes → Choose **IPS Black** or **high-end OLED/QD-OLED** with calibration support.  
    • No → Go to step 5.  
 
-5. **Do you keep static UI elements on-screen all day?**  
+5 - **Do you keep static UI elements on-screen all day?**  
    • Yes → Favor **IPS** / **VA** / **Mini-LED LCD** to avoid burn-in.  
    • No → Emissive tech (OLED/QD-OLED) is safe to consider if budget allows.  
 
-6. **Is budget the deciding factor?**  
+6 - **Is budget the deciding factor?**  
    • Tight budget → **IPS** or **VA** monitor / TV.  
    • Flexible budget → Match tech to use case (often **Mini-LED** or **OLED**).  
 
