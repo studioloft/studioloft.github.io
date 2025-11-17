@@ -45,12 +45,14 @@ Every modern screen falls into one of two fundamental categories: **transmissive
 ## Transmissive Displays (LCD)
 
 LCD (**L**iquid **C**rystal **D**isplay) panels do not generate light themselves. Instead, they rely on a **backlight** that shines through multiple layers:
+<br>
 • Rear polarizer  
 • Liquid crystal layer (twists to modulate light)  
 • RGB color filters  
 • Front polarizer and protective glass  
 
 Pixels work by **blocking or allowing light**. Because light must be blocked rather than switched off:
+<br>
 • Blacks are never perfectly black (some light leaks through)  
 • Native contrast ratio is limited compared to emissive tech  
 • Response time depends on how quickly the crystals physically twist and untwist  
