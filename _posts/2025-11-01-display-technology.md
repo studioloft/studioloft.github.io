@@ -39,7 +39,8 @@ This article is a practical, user-friendly **display technology comparison** des
 - Explain how each major panel type works  
 - Compare the strengths and weaknesses of LCD, IPS, VA, Mini-LED, OLED, QD-OLED, and MicroLED  
 - Map each technology to real-world use cases like gaming, creative work, home theater, and productivity  
-<br>
+
+
 {: .note }
 Understanding the core technology (not just brand marketing) is the single best way to choose a display that actually fits your workflow and environment.
 
@@ -63,7 +64,8 @@ Pixels work by **blocking or allowing light**. Because light must be blocked rat
 - Native contrast ratio is limited compared to emissive tech  
 - Response time depends on how quickly the crystals physically twist and untwist  
 - Local dimming is required to simulate “per-pixel” control for HDR  
-<br>
+
+
 {: .tip }
 Transmissive technologies like TN, IPS, VA, and Mini-LED LCDs excel in **brightness, cost-efficiency, and long-term stability**, which is why they remain so common in monitors and TVs.
 
@@ -101,7 +103,7 @@ Each behaves differently in terms of color, contrast, speed, and viewing angles.
 
 ---
 
-## 3.1 TN (Twisted Nematic)
+## TN (Twisted Nematic)
 
 TN is the oldest and simplest LCD variant and is still favored in some **esports** and budget monitors.
 
@@ -137,7 +139,7 @@ TN is the oldest and simplest LCD variant and is still favored in some **esports
 
 ---
 
-## 3.2 IPS (In-Plane Switching)
+## IPS (In-Plane Switching)
 
 IPS is the **most balanced LCD technology** for general and professional use.
 
@@ -174,7 +176,7 @@ IPS is the **most balanced LCD technology** for general and professional use.
 
 ---
 
-## 3.3 VA (Vertical Alignment)
+## VA (Vertical Alignment)
 
 VA panels prioritize **native contrast**, making them strong for movie watching and dark-room use.
 
