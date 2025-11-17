@@ -6,17 +6,24 @@
     </picture>
   </a>
 
-  About SLM here. 
+  About SLM here.
   
+  <p>
+    <a href="https://github.com/studioloft/studioloft.github.io/actions"><img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status"></a>
+    <img src="https://img.shields.io/github/last-commit/studioloft/studioloft.github.io" alt="Last Commit">
+    <img src="https://img.shields.io/badge/GitHub%20Pages-deployed-0A66C2" alt="GitHub Pages">
+    <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
+    <img src="https://img.shields.io/github/repo-size/studioloft/studioloft.github.io" alt="Repo Size">
+  </p> 
 </div>
 
 * * *
 
-### Theme features
+### Objectives
 
-- Works with GitHub Pages (host it for free)
-- Dark and light mode user can select themself
-- No jQuery, only vanilla JS
+- Objective 1
+- Objective 2
+- Objective 3
 
 * * *
 
@@ -36,4 +43,4 @@ This website is built and maintained via GitHub. It is published via GitHub Page
 
 ### Contact
 
-<p>If you have any questions or feedback about the theme, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p>
+If you have any questions or feedback, please feel free to <a href="mailto:contact@studioloft.media">contact me</a>.
