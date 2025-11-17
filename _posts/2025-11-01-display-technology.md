@@ -320,16 +320,16 @@ To make a smart choice in any display technology comparison, it helps to underst
 
 ### Peak Brightness (nits)
 
-- **SDR usage:** 200–400 nits is usually comfortable  
-- **HDR usage:** 600–1000+ nits is recommended for impactful highlights  
-- **Very bright rooms:** Higher peak brightness (1000+ nits) helps combat glare  
+**SDR usage:** 200–400 nits is usually comfortable  
+**HDR usage:** 600–1000+ nits is recommended for impactful highlights  
+**Very bright rooms:** Higher peak brightness (1000+ nits) helps combat glare  
 
 ### Native Contrast Ratio
 
-- **IPS:** ~900–1300:1 (standard), up to ~2000:1 (IPS Black)  
-- **VA:** 3000–6000:1  
-- **Mini-LED LCD:** Effective contrast much higher due to local dimming  
-- **OLED / QD-OLED / MicroLED:** Practically infinite  
+**IPS:** ~900–1300:1 (standard), up to ~2000:1 (IPS Black)  
+**VA:** 3000–6000:1  
+**Mini-LED LCD:** Effective contrast much higher due to local dimming  
+**OLED / QD-OLED / MicroLED:** Practically infinite  
 
 ### Color Gamut Coverage
 
