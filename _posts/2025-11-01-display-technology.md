@@ -32,6 +32,7 @@ This article is a practical, user-friendly **display technology comparison** des
 - Explain how each major panel type works  
 - Compare the strengths and weaknesses of LCD, IPS, VA, Mini-LED, OLED, QD-OLED, and MicroLED  
 - Map each technology to real-world use cases like gaming, creative work, home theater, and productivity  
+.
 
 {: .note }
 Understanding the core technology (not just brand marketing) is the single best way to choose a display that actually fits your workflow and environment.
@@ -60,8 +61,6 @@ Pixels work by **blocking or allowing light**. Because light must be blocked rat
 {: .tip }
 Transmissive technologies like TN, IPS, VA, and Mini-LED LCDs excel in **brightness, cost-efficiency, and long-term stability**, which is why they remain so common in monitors and TVs.
 
----
-
 ## Emissive Displays (OLED, QD-OLED, MicroLED)
 
 Emissive panels use pixels that **emit their own light**. There is no traditional backlight. This has several important consequences:
@@ -74,7 +73,7 @@ The tradeoffs:
 - OLED and QD-OLED use **organic compounds** that can wear out and are susceptible to **burn-in**  
 - Emissive panels are more complex and usually more expensive  
 - Managing brightness vs. longevity is a key engineering challenge  
- 
+.
 
 {: .important }
 Emissive technologies offer the **best image quality** overall, but they carry higher cost and more long-term image retention risks, especially for static UI elements.
@@ -90,8 +89,6 @@ Within the LCD family, most consumer displays are based on three main **panel st
 - **VA** (Vertical Alignment)  
 
 Each behaves differently in terms of color, contrast, speed, and viewing angles.
-
----
 
 ## TN (Twisted Nematic)
 
@@ -127,8 +124,6 @@ TN is the oldest and simplest LCD variant and is still favored in some **esports
   </table>
 </div>
 
----
-
 ## IPS (In-Plane Switching)
 
 IPS is the **most balanced LCD technology** for general and professional use.
@@ -148,6 +143,7 @@ IPS is the **most balanced LCD technology** for general and professional use.
 
 - Native contrast (~900–1300:1) is lower than VA  
 - IPS glow: subtle haze in dark scenes, especially at the corners in dark rooms  
+.
 
 ### IPS Panel Comparison Table
 
@@ -163,8 +159,6 @@ IPS is the **most balanced LCD technology** for general and professional use.
 
 {: .note }
 **IPS Black** is a newer refinement of IPS technology that improves native contrast (often approaching ~2000:1) and slightly reduces glow, making it particularly attractive for creatives and office use in mixed lighting.
-
----
 
 ## VA (Vertical Alignment)
 
@@ -216,6 +210,7 @@ However, because it’s still LCD, some limitations remain:
 - Light is controlled in **zones**, not per pixel  
 - Bright highlights on dark backgrounds can cause **blooming** (a halo effect)  
 - Panel type (IPS vs VA) still influences overall contrast and viewing angle  
+.
 
 ### Mini-LED Overview Table
 
@@ -244,9 +239,7 @@ OLED and QD-OLED are **emissive technologies** where each pixel emits its own li
 - Very fast response times  
 - Superb HDR, especially in dark or controlled lighting environments  
 
----
-
-## 5.1 OLED (Standard / WOLED)
+## OLED (Standard / WOLED)
 
 Most consumer OLED TVs and many monitors use **WOLED** (white OLED with color filters):
 
@@ -266,9 +259,7 @@ Most consumer OLED TVs and many monitors use **WOLED** (white OLED with color fi
 - Peak brightness is improving but still typically lower than high-end Mini-LED in very bright scenes  
 - Brightness and lifespan management are handled via aggressive ABL (Automatic Brightness Limiting) and panel protection features  
 
----
-
-## 5.2 QD-OLED (Quantum Dot OLED)
+## QD-OLED (Quantum Dot OLED)
 
 QD-OLED uses a **blue OLED emitter** combined with a **quantum-dot conversion layer** for red and green, instead of traditional color filters.
 
@@ -282,6 +273,7 @@ QD-OLED uses a **blue OLED emitter** combined with a **quantum-dot conversion la
 
 - Slight **color fringing** possible on fine text due to non-standard subpixel layout (especially noticeable at certain resolutions and scaling)  
 - Still uses organic emitters → burn-in and aging risks remain  
+.
 
 ### OLED vs QD-OLED Comparison Table
 
@@ -326,32 +318,32 @@ MicroLED is the **most technically advanced display technology** currently avail
 
 To make a smart choice in any display technology comparison, it helps to understand the **key specifications** that actually affect real-world performance.
 
-### 7.1 Peak Brightness (nits)
+### Peak Brightness (nits)
 
 - **SDR usage:** 200–400 nits is usually comfortable  
 - **HDR usage:** 600–1000+ nits is recommended for impactful highlights  
 - **Very bright rooms:** Higher peak brightness (1000+ nits) helps combat glare  
 
-### 7.2 Native Contrast Ratio
+### Native Contrast Ratio
 
 - **IPS:** ~900–1300:1 (standard), up to ~2000:1 (IPS Black)  
 - **VA:** 3000–6000:1  
 - **Mini-LED LCD:** Effective contrast much higher due to local dimming  
 - **OLED / QD-OLED / MicroLED:** Practically infinite  
 
-### 7.3 Color Gamut Coverage
+### Color Gamut Coverage
 
 - **sRGB / Rec.709:** Good for standard/content creation for web  
 - **DCI-P3:** Preferred for modern HDR and cinema content  
 - **Rec.2020:** Ideal for high-end mastering and future-proof workflows  
 
-### 7.4 Color Accuracy and Calibration
+### Color Accuracy and Calibration
 
 - Look for **Delta-E < 2** for color-critical work  
 - Hardware calibration support is a plus for professionals  
 - Uniformity compensation helps reduce shifts across the panel  
 
-### 7.5 Response Time and Input Lag
+### Response Time and Input Lag
 
 - **Response Time:** How fast pixels change color (GTG values)  
 - **Input Lag:** Total delay from input to on-screen result  
@@ -361,7 +353,7 @@ Gaming priorities:
 - Fast **TN** or **Fast IPS** for competitive players  
 - **OLED/QD-OLED** for max motion clarity, deep contrast, and response time  
 
-### 7.6 Burn-in and Longevity
+### Burn-in and Longevity
 
 - **OLED / QD-OLED:** Risk of retention with static content; mitigated by pixel shifting, screen savers, and cautious brightness settings  
 - **LCD / Mini-LED:** No burn-in; backlights dim gradually over many years  
@@ -373,9 +365,8 @@ Gaming priorities:
 
 This section summarizes the article with focused tables so you can quickly compare panel types.
 
----
 
-## 8.1 LCD Family Overview
+## LCD Family Overview
 
 <div class="table-container">
   <table>
@@ -387,9 +378,7 @@ This section summarizes the article with focused tables so you can quickly compa
   </table>
 </div>
 
----
-
-## 8.2 Emissive Family Overview
+## Emissive Family Overview
 
 <div class="table-container">
   <table>
@@ -406,9 +395,7 @@ This section summarizes the article with focused tables so you can quickly compa
 
 This section helps map the display technology comparison to **real-world usage**.
 
----
-
-## 9.1 For Creatives (Photo, Video, Design, Color Grading)
+## For Creatives (Photo, Video, Design, Color Grading)
 
 **Recommended:**
 
@@ -420,9 +407,7 @@ This section helps map the display technology comparison to **real-world usage**
 - You need wide gamut (at least DCI-P3), low Delta-E, stable calibration, and good uniformity.  
 - Emissive displays offer unmatched contrast but require careful management for static UI.
 
----
-
-## 9.2 For Gamers
+## For Gamers
 
 **Competitive Esports Players:**
 
@@ -434,9 +419,7 @@ This section helps map the display technology comparison to **real-world usage**
 - **OLED** or **QD-OLED** monitors or TVs  
 - Deep blacks and instant response massively improve perceived motion clarity and scene depth  
 
----
-
-## 9.3 For Home Theater & HDR Entertainment
+## For Home Theater & HDR Entertainment
 
 **Dark Room Theater:**
 
@@ -448,9 +431,7 @@ This section helps map the display technology comparison to **real-world usage**
 - **Mini-LED TV** with strong anti-reflection coating  
 - Higher peak brightness preserves impact in bright scenes and fights glare  
 
----
-
-## 9.4 For Productivity, Office Work & Reading
+## For Productivity, Office Work & Reading
 
 **Recommended:**
 
