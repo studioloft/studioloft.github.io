@@ -64,12 +64,14 @@ Transmissive technologies like TN, IPS, VA, and Mini-LED LCDs excel in **brightn
 ## Emissive Displays (OLED, QD-OLED, MicroLED)
 
 Emissive panels use pixels that **emit their own light**. There is no traditional backlight. This has several important consequences:
+<br>
 • A black pixel can be truly off → **theoretically infinite contrast**  
 • Response times are extremely fast (often <0.1 ms)  
 • Viewing angles are wide with minimal color or contrast shift  
 • HDR performance benefits from per-pixel brightness control  
 
 The tradeoffs:
+<br>
 • OLED and QD-OLED use **organic compounds** that can wear out and are susceptible to **burn-in**  
 • Emissive panels are more complex and usually more expensive  
 • Managing brightness vs. longevity is a key engineering challenge  
@@ -82,7 +84,7 @@ Emissive technologies offer the **best image quality** overall, but they carry h
 # <a id="lcd-panels"></a> 3. LCD Panel Types (TN, IPS, VA)
 
 Within the LCD family, most consumer displays are based on three main **panel structures**:
-
+<br>
 • **TN** (Twisted Nematic)  
 • **IPS** (In-Plane Switching)  
 • **VA** (Vertical Alignment)  
@@ -94,15 +96,17 @@ Each behaves differently in terms of color, contrast, speed, and viewing angles.
 TN is the oldest and simplest LCD variant and is still favored in some **esports** and budget monitors.
 
 **How it works (simple version):**
-
+<br>
 • Liquid crystals twist to control the polarization of light.  
 • Voltage changes quickly re-orient the crystals, allowing very fast changes in brightness.
+<br>
 
 **Pros:**
-
 • Extremely fast response times (sub-1 ms on some gaming panels)  
 • Very low input lag  
 • Generally the cheapest option  
+<br>
+
 **Cons:**
 • Poor viewing angles (colors and contrast shift dramatically off-center)  
 • Lower color accuracy and coverage  
