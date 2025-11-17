@@ -23,7 +23,7 @@
 
 **Studio Loft Media** is a technical knowledge project aimed at producing:
 - High‑clarity engineering explanations
-- Technology standard breakdowns (e.g., SD cards, displays)
+- Breakdown Technology Standards
 - Comparison tables and infographics
 - Long‑form guides with balanced academic + accessible writing
 
