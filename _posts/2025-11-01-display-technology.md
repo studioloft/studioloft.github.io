@@ -200,13 +200,13 @@ VA panels prioritize **native contrast**, making them strong for movie watching 
 Mini-LED is **not a new panel type**, but an advanced backlighting system for LCDs (IPS or VA).
 
 Instead of a small number of large LEDs or edge lighting, Mini-LED uses **hundreds to thousands of tiny LEDs** grouped into local dimming zones:
-
+<br>
 • More zones = finer control of brightness across the screen  
 • Enables much higher peak brightness (often 1000–3000+ nits)  
 • Greatly improves HDR highlights and perceived contrast  
 
 However, because it’s still LCD, some limitations remain:
-
+<br>
 • Light is controlled in **zones**, not per pixel  
 • Bright highlights on dark backgrounds can cause **blooming** (a halo effect)  
 • Panel type (IPS vs VA) still influences overall contrast and viewing angle  
@@ -232,7 +232,7 @@ If you need **high brightness, good HDR, and no burn-in risk** (e.g., bright liv
 # <a id="oled"></a> 5. Emissive Technologies: OLED & QD-OLED
 
 OLED and QD-OLED are **emissive technologies** where each pixel emits its own light. This enables:
-
+<br>
 • Perfect blacks (individual pixels can turn completely off)  
 • Extremely high perceived contrast  
 • Very fast response times  
@@ -241,17 +241,19 @@ OLED and QD-OLED are **emissive technologies** where each pixel emits its own li
 ## OLED (Standard / WOLED)
 
 Most consumer OLED TVs and many monitors use **WOLED** (white OLED with color filters):
-
+<br>
 • White OLED subpixel emits light  
 • Color filters turn it into red, green, and blue  
 
 **Pros:**
+<br>
 • Perfect black levels  
 • Infinite contrast ratio in practical terms  
 • Near-instant response times (excellent motion clarity)  
 • Wide viewing angles with minimal color shift  
 
 **Cons:**
+<br>
 • Risk of **burn-in** or long-term image retention with static elements  
 • Peak brightness is improving but still typically lower than high-end Mini-LED in very bright scenes  
 • Brightness and lifespan management are handled via aggressive ABL (Automatic Brightness Limiting) and panel protection features  
@@ -261,11 +263,13 @@ Most consumer OLED TVs and many monitors use **WOLED** (white OLED with color fi
 QD-OLED uses a **blue OLED emitter** combined with a **quantum-dot conversion layer** for red and green, instead of traditional color filters.
 
 **Advantages vs. standard OLED:**
+<br>
 • Higher color volume and a wider color gamut (approaching Rec.2020)  
 • Better efficiency (more light reaches your eyes)  
 • Higher peak brightness relative to similar WOLED panels  
 
 **Drawbacks:**
+<br>
 • Slight **color fringing** possible on fine text due to non-standard subpixel layout (especially noticeable at certain resolutions and scaling)  
 • Still uses organic emitters → burn-in and aging risks remain  
 
@@ -290,7 +294,7 @@ If your usage involves **static toolbars, HUDs, logos, or dashboards** on-screen
 # <a id="microled"></a> 6. MicroLED — The Future Standard
 
 MicroLED is often described as the **“endgame” display technology** because it combines the strengths of LCD and OLED with almost none of their weaknesses:
-
+<br>
 • Each pixel is an **inorganic micro-LED**  
 • Infinite contrast (per-pixel control)  
 • Extremely high brightness (often 2000–5000+ nits potential)  
@@ -298,6 +302,7 @@ MicroLED is often described as the **“endgame” display technology** because 
 • Very long lifespan (100,000+ hours)  
 
 **Challenges in 2026:**
+<br>
 • Extremely expensive to manufacture  
 • Difficult to scale to consumer pricing due to microscopic LED placement and yield issues  
 • Primarily seen in **ultra-premium TVs**, **commercial signage**, or modular video walls  
@@ -391,40 +396,48 @@ This section helps map the display technology comparison to **real-world usage**
 ## For Creatives (Photo, Video, Design, Color Grading)
 
 **Recommended:**
+<br>
 • High-quality **IPS** or **IPS Black** for stability and accuracy  
 • **QD-OLED** (or top-tier OLED) when HDR grading and deep blacks are priorities  
 
 **Why:**
+<br>
 • You need wide gamut (at least DCI-P3), low Delta-E, stable calibration, and good uniformity.  
 • Emissive displays offer unmatched contrast but require careful management for static UI.
 
 ## For Gamers
 
 **Competitive Esports Players:**
+<br>
 • **Fast IPS** or **TN** with 240–360 Hz  
 • Focus on input lag, response time, and motion clarity over contrast  
 
 **Immersive / HDR Gamers:**
+<br>
 • **OLED** or **QD-OLED** monitors or TVs  
 • Deep blacks and instant response massively improve perceived motion clarity and scene depth  
 
 ## For Home Theater & HDR Entertainment
 
 **Dark Room Theater:**
+<br>
 • **OLED** or **QD-OLED** is the gold standard  
 • Perfect black levels and pixel-level dimming are unbeatable for movies and high-end series  
 
 **Bright Living Room:**
+<br>
 • **Mini-LED TV** with strong anti-reflection coating  
 • Higher peak brightness preserves impact in bright scenes and fights glare  
 
 ## For Productivity, Office Work & Reading
 
 **Recommended:**
+<br>
 • **IPS** or **IPS Black** monitors for stable color and comfortable viewing angles  
 • Consider **E-Ink** secondary displays if you read long technical or textual documents frequently  
 
 **Why:**
+<br>
 • Long work sessions demand comfort, predictable behavior, and low visual fatigue.  
 • Burn-in risk on OLED may be a concern with static taskbars, docks, and toolbars.
 
@@ -466,7 +479,7 @@ Use this quick decision sequence to narrow down your options:
 # <a id="final-thoughts"></a> 11. Final Thoughts
 
 In 2025, the world of displays can feel complex, but it becomes manageable once you understand the **underlying technologies**:
-
+<br>
 • **TN** for raw speed and budget gaming  
 • **IPS** for balanced performance, color accuracy, and productivity  
 • **VA** for strong contrast in movies and dark rooms  
