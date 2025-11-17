@@ -223,7 +223,6 @@
     display: block;
     height: 100px;
     margin-top: -80px;
-    scroll-margin-top: 96px;
   }
 
   a:not([class]) {
@@ -577,4 +576,9 @@
       margin-bottom: 0;
     }
   }
+}
+
+html {
+  scroll-padding-top: 96px;   // adjust to match your sticky header height
+  scroll-behavior: smooth;    // optional, makes ToC jumps look nicer
 }
