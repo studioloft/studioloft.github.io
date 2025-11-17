@@ -21,23 +21,37 @@
 
 ### Objectives
 
-- Objective 1
-- Objective 2
-- Objective 3
+**Studio Loft Media** is a technical knowledge project aimed at producing:
+- High‑clarity engineering explanations
+- Technology standard breakdowns (e.g., SD cards, displays)
+- Comparison tables and infographics
+- Long‑form guides with balanced academic + accessible writing
 
 * * *
 
 ### Contributing
 
-Blurb about contributing here.
+Suggestions and contributions are welcome. Good candidates include:
+- Contribute to an existing topic
+- Suggest a new topic
+- Submit a correction to an existing topic
+- Fix website bugs
+- Adding new article components
+- Expanding technical content or tables
 
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+Please reach out via the [Contact](https://www.studioloft.media/contact/) page.
 
 * * *
 
 ### Deployment
 
 This website is built and maintained via GitHub. It is published via GitHub Pages which makes it a viewable website.
+
+* * *
+
+### License
+
+Released under the **MIT License**.
 
 * * *
 
