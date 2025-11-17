@@ -99,15 +99,15 @@ TN is the oldest and simplest LCD variant and is still favored in some **esports
 <br>
 • Liquid crystals twist to control the polarization of light.  
 • Voltage changes quickly re-orient the crystals, allowing very fast changes in brightness.
-<br>
 
 **Pros:**
+<br>
 • Extremely fast response times (sub-1 ms on some gaming panels)  
 • Very low input lag  
 • Generally the cheapest option  
-<br>
 
 **Cons:**
+<br>
 • Poor viewing angles (colors and contrast shift dramatically off-center)  
 • Lower color accuracy and coverage  
 • Weaker contrast than VA and emissive technologies  
@@ -130,18 +130,18 @@ TN is the oldest and simplest LCD variant and is still favored in some **esports
 IPS is the **most balanced LCD technology** for general and professional use.
 
 **How it works:**
-
+<br>
 • Liquid crystals rotate **in the plane** of the screen, improving control over light transmission and maintaining color stability across wide angles.
 
 **Pros:**
-
+<br>
 • Excellent color accuracy and consistency  
 • Wide viewing angles with minimal color shift  
 • “Fast IPS” variants now offer very quick response times suitable for high-refresh gaming  
 • Common in **creative**, **productivity**, and **premium monitors**  
 
 **Cons:**
-
+<br>
 • Native contrast (~900–1300:1) is lower than VA  
 • IPS glow: subtle haze in dark scenes, especially at the corners in dark rooms  
 
@@ -165,15 +165,17 @@ IPS is the **most balanced LCD technology** for general and professional use.
 VA panels prioritize **native contrast**, making them strong for movie watching and dark-room use.
 
 **How it works:**
-
+<br>
 • Crystals align vertically (blocking light) when “off” and tilt when voltage is applied, providing better light blocking in dark content.
 
 **Pros:**
+<br>
 • Highest contrast among mainstream LCD technologies (often 3000–6000:1)  
 • Deep blacks (for an LCD)  
 • Very good for movies, TV, and general entertainment, especially in dim rooms  
 
 **Cons:**
+<br>
 • Slower transitions between some gray levels can cause **dark smearing** in fast content  
 • Viewing angles are better than TN but worse than IPS  
 • Color consistency can vary across the panel  
