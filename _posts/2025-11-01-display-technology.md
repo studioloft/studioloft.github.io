@@ -29,10 +29,9 @@ Modern buyers face an overwhelming number of panel types, certifications, and ma
 
 This article is a practical, user-friendly **display technology comparison** designed to:
 
-- Explain how each major panel type works  
-- Compare the strengths and weaknesses of LCD, IPS, VA, Mini-LED, OLED, QD-OLED, and MicroLED  
-- Map each technology to real-world use cases like gaming, creative work, home theater, and productivity  
-.
+• Explain how each major panel type works  
+• Compare the strengths and weaknesses of LCD, IPS, VA, Mini-LED, OLED, QD-OLED, and MicroLED  
+• Map each technology to real-world use cases like gaming, creative work, home theater, and productivity  
 
 {: .note }
 Understanding the core technology (not just brand marketing) is the single best way to choose a display that actually fits your workflow and environment.
@@ -46,17 +45,16 @@ Every modern screen falls into one of two fundamental categories: **transmissive
 ## Transmissive Displays (LCD)
 
 LCD (**L**iquid **C**rystal **D**isplay) panels do not generate light themselves. Instead, they rely on a **backlight** that shines through multiple layers:
-- Rear polarizer  
-- Liquid crystal layer (twists to modulate light)  
-- RGB color filters  
-- Front polarizer and protective glass  
-<br>
+• Rear polarizer  
+• Liquid crystal layer (twists to modulate light)  
+• RGB color filters  
+• Front polarizer and protective glass  
+
 Pixels work by **blocking or allowing light**. Because light must be blocked rather than switched off:
-- Blacks are never perfectly black (some light leaks through)  
-- Native contrast ratio is limited compared to emissive tech  
-- Response time depends on how quickly the crystals physically twist and untwist  
-- Local dimming is required to simulate “per-pixel” control for HDR  
-.
+• Blacks are never perfectly black (some light leaks through)  
+• Native contrast ratio is limited compared to emissive tech  
+• Response time depends on how quickly the crystals physically twist and untwist  
+• Local dimming is required to simulate “per-pixel” control for HDR  
 
 {: .tip }
 Transmissive technologies like TN, IPS, VA, and Mini-LED LCDs excel in **brightness, cost-efficiency, and long-term stability**, which is why they remain so common in monitors and TVs.
@@ -64,16 +62,15 @@ Transmissive technologies like TN, IPS, VA, and Mini-LED LCDs excel in **brightn
 ## Emissive Displays (OLED, QD-OLED, MicroLED)
 
 Emissive panels use pixels that **emit their own light**. There is no traditional backlight. This has several important consequences:
-- A black pixel can be truly off → **theoretically infinite contrast**  
-- Response times are extremely fast (often <0.1 ms)  
-- Viewing angles are wide with minimal color or contrast shift  
-- HDR performance benefits from per-pixel brightness control  
-<br>
+• A black pixel can be truly off → **theoretically infinite contrast**  
+• Response times are extremely fast (often <0.1 ms)  
+• Viewing angles are wide with minimal color or contrast shift  
+• HDR performance benefits from per-pixel brightness control  
+
 The tradeoffs:
-- OLED and QD-OLED use **organic compounds** that can wear out and are susceptible to **burn-in**  
-- Emissive panels are more complex and usually more expensive  
-- Managing brightness vs. longevity is a key engineering challenge  
-.
+• OLED and QD-OLED use **organic compounds** that can wear out and are susceptible to **burn-in**  
+• Emissive panels are more complex and usually more expensive  
+• Managing brightness vs. longevity is a key engineering challenge  
 
 {: .important }
 Emissive technologies offer the **best image quality** overall, but they carry higher cost and more long-term image retention risks, especially for static UI elements.
@@ -320,44 +317,44 @@ To make a smart choice in any display technology comparison, it helps to underst
 
 ### Peak Brightness (nits)
 
-**SDR usage:** 200–400 nits is usually comfortable  
-**HDR usage:** 600–1000+ nits is recommended for impactful highlights  
-**Very bright rooms:** Higher peak brightness (1000+ nits) helps combat glare  
+• **SDR usage:** 200–400 nits is usually comfortable  
+• **HDR usage:** 600–1000+ nits is recommended for impactful highlights  
+• **Very bright rooms:** Higher peak brightness (1000+ nits) helps combat glare  
 
 ### Native Contrast Ratio
 
-**IPS:** ~900–1300:1 (standard), up to ~2000:1 (IPS Black)  
-**VA:** 3000–6000:1  
-**Mini-LED LCD:** Effective contrast much higher due to local dimming  
-**OLED / QD-OLED / MicroLED:** Practically infinite  
+• **IPS:** ~900–1300:1 (standard), up to ~2000:1 (IPS Black)  
+• **VA:** 3000–6000:1  
+• **Mini-LED LCD:** Effective contrast much higher due to local dimming  
+• **OLED / QD-OLED / MicroLED:** Practically infinite  
 
 ### Color Gamut Coverage
 
-- **sRGB / Rec.709:** Good for standard/content creation for web  
-- **DCI-P3:** Preferred for modern HDR and cinema content  
-- **Rec.2020:** Ideal for high-end mastering and future-proof workflows  
+• **sRGB / Rec.709:** Good for standard/content creation for web  
+• **DCI-P3:** Preferred for modern HDR and cinema content  
+• **Rec.2020:** Ideal for high-end mastering and future-proof workflows  
 
 ### Color Accuracy and Calibration
 
-- Look for **Delta-E < 2** for color-critical work  
-- Hardware calibration support is a plus for professionals  
-- Uniformity compensation helps reduce shifts across the panel  
+• Look for **Delta-E < 2** for color-critical work  
+• Hardware calibration support is a plus for professionals  
+• Uniformity compensation helps reduce shifts across the panel  
 
 ### Response Time and Input Lag
 
-- **Response Time:** How fast pixels change color (GTG values)  
-- **Input Lag:** Total delay from input to on-screen result  
+• **Response Time:** How fast pixels change color (GTG values)  
+• **Input Lag:** Total delay from input to on-screen result  
 
 Gaming priorities:
 
-- Fast **TN** or **Fast IPS** for competitive players  
-- **OLED/QD-OLED** for max motion clarity, deep contrast, and response time  
+• Fast **TN** or **Fast IPS** for competitive players  
+• **OLED/QD-OLED** for max motion clarity, deep contrast, and response time  
 
 ### Burn-in and Longevity
 
-- **OLED / QD-OLED:** Risk of retention with static content; mitigated by pixel shifting, screen savers, and cautious brightness settings  
-- **LCD / Mini-LED:** No burn-in; backlights dim gradually over many years  
-- **MicroLED:** Extremely robust lifespan  
+• **OLED / QD-OLED:** Risk of retention with static content; mitigated by pixel shifting, screen savers, and cautious brightness settings  
+• **LCD / Mini-LED:** No burn-in; backlights dim gradually over many years  
+• **MicroLED:** Extremely robust lifespan  
 
 ---
 
