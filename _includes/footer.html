@@ -7,10 +7,6 @@
 
         <div class="col col-4 col-d-12">
           <h3 class="footer__info__title">{{ site.data.settings.title }}</h3>
-          <a href="{{ '/' | relative_url }}" class="site-logo">
-  <img src="{{ site.data.settings.logo_light }}" class="logo-img logo-light" alt="{{ site.data.settings.title }} logo">
-  <img src="{{ site.data.settings.logo_dark }}"  class="logo-img logo-dark"  alt="{{ site.data.settings.title }} logo (dark)">
-</a>
           {% if site.data.settings.footer_description %}
           <p class="footer__info__description">{{ site.data.settings.footer_description }}</p>
           {% endif %}
