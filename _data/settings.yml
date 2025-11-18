@@ -65,7 +65,7 @@ hero:
 
 # Logos
 logos:
-  enable: true
+  enable: false
   logos_title: Hero Bar
   logo_image:
     - alt: "Game Boy"
