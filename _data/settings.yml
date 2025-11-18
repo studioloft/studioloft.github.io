@@ -139,7 +139,7 @@ gallery_section:
 mailchimp:
   enable: true
   mailchimp_title: Insights Delivered
-  mailchimp_description: Receive practical guidance, productivity hacks, expert-level insights and deep-dive exokunations across technology, creativity and productivity - built to expand understanding and inspire progress.
+  mailchimp_description: Receive curated knowledge, productivity hacks, and tech tips straight to your inbox and elevate the way you learn, work and create.
   mailchimp_identifier: media.us14.list-manage.com/subscribe/post?u=1b35216b36115ee8eec4a8be8&id=1e0f3f04aa # Add your MailChimp form identifier.
   mailchimp_input_text: Your email address...
   mailchimp_button_text: Join Now
