@@ -29,9 +29,9 @@ Modern buyers face an overwhelming number of panel types, certifications, and ma
 
 This article is a practical, user-friendly **display technology comparison** designed to:
 
-• Explain how each major panel type works  
-• Compare the strengths and weaknesses of LCD, IPS, VA, Mini-LED, OLED, QD-OLED, and MicroLED  
-• Map each technology to real-world use cases like gaming, creative work, home theater, and productivity  
+- Explain how each major panel type works  
+- Compare the strengths and weaknesses of LCD, IPS, VA, Mini-LED, OLED, QD-OLED, and MicroLED  
+- Map each technology to real-world use cases like gaming, creative work, home theater, and productivity  
 
 {: .note }
 Understanding the core technology (not just brand marketing) is the single best way to choose a display that actually fits your workflow and environment.
