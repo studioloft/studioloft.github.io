@@ -577,3 +577,38 @@
     }
   }
 }
+
+
+/* Glossary */
+.glossary-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1.5rem;
+}
+
+.glossary-table th,
+.glossary-table td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06); // adjust for dark/light themes
+}
+
+.glossary-table th {
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+
+.glossary-table th.sorted-asc::after {
+  content: " ▲";
+  font-size: 0.8em;
+}
+
+.glossary-table th.sorted-desc::after {
+  content: " ▼";
+  font-size: 0.8em;
+}
+
+.glossary-details {
+  font-size: 0.9em;
+  opacity: 0.8;
+}

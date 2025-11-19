@@ -1,0 +1,20 @@
+- term: ADC
+  category: Electronics
+  summary: Converts analog signals to digital values.
+  details: >
+    An analog-to-digital converter (ADC) samples an analog input and outputs
+    a digital code representing the signal amplitude at discrete time steps.
+
+- term: Bit Depth
+  category: Imaging
+  summary: Number of bits used to represent each pixel.
+  details: >
+    Higher bit depth enables more precise representation of tonal values and
+    reduces banding artifacts in gradients.
+
+- term: Chromatic Aberration
+  category: Optics
+  summary: Color fringing caused by lens dispersion.
+  details: >
+    Occurs because different wavelengths of light refract by different amounts
+    when passing through a lens element.
