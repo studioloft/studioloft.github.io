@@ -6,7 +6,7 @@
     </picture>
   </a>
 
-  About SLM here.
+  Inspiring the future.
   
   <p>
     <a href="https://github.com/studioloft/studioloft.github.io/actions"><img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status"></a>
