@@ -580,6 +580,34 @@
 
 
 /* Glossary */
+.glossary-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.glossary-control {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.glossary-control label {
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
+
+.glossary-search-input,
+.glossary-category-select {
+  padding: 0.4rem 0.6rem;
+  border-radius: 0.25rem;
+  border: 1px solid rgba(255, 255, 255, 0.12); // adjust for light mode
+  background: transparent;
+  font: inherit;
+}
+
 .glossary-table {
   width: 100%;
   border-collapse: collapse;
@@ -589,7 +617,7 @@
 .glossary-table th,
 .glossary-table td {
   padding: 0.5rem 0.75rem;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.06); // adjust for dark/light themes
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06); // adjust per theme
 }
 
 .glossary-table th {

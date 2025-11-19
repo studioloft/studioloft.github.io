@@ -27,6 +27,8 @@ menu_settings:
       url: '/'
     - title: 'Videos'
       url: '/videos/'
+    - title: 'Glossary'
+      url: '/glossary/'
     - title: 'Archive'
       url: '/archive/'
     - title: 'Pages'

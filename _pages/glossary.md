@@ -6,7 +6,32 @@ layout: page
 
 # Glossary
 
-Use the column headers to sort by term or category.
+Use the search box or filters, and click the column headers to sort.
+
+<div class="glossary-controls">
+  <div class="glossary-control">
+    <label for="glossary-search">Search</label>
+    <input
+      type="text"
+      id="glossary-search"
+      class="glossary-search-input"
+      placeholder="Search terms, categories, descriptions..."
+    >
+  </div>
+
+  <div class="glossary-control">
+    <label for="glossary-category">Category</label>
+    <select id="glossary-category" class="glossary-category-select">
+      <option value="">All categories</option>
+      {% assign categories = site.data.glossary | map: "category" | uniq | sort %}
+      {% for cat in categories %}
+        {% if cat %}
+          <option value="{{ cat }}">{{ cat }}</option>
+        {% endif %}
+      {% endfor %}
+    </select>
+  </div>
+</div>
 
 <table id="glossary-table" class="glossary-table">
   <thead>
@@ -20,9 +45,9 @@ Use the column headers to sort by term or category.
   {% assign items = site.data.glossary | sort: "term" %}
   {% for item in items %}
     <tr>
-      <td>{{ item.term }}</td>
-      <td>{{ item.category }}</td>
-      <td>
+      <td class="glossary-term">{{ item.term }}</td>
+      <td class="glossary-category">{{ item.category }}</td>
+      <td class="glossary-summary">
         <strong>{{ item.summary }}</strong>
         {% if item.details %}
           <br>
