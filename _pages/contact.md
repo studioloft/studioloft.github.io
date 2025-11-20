@@ -1,8 +1,8 @@
 ---
 layout: contact
 title: Get In Touch
-description: Coderon comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free.
+description: For all professional inquiries, please use the form below. Your message will be directed to the appropriate individual for review.
 permalink: /contact/
-image: '/images/40.jpg'
-image_caption: 'Photo by [Pablo Stanley](https://www.lummi.ai/creator/pablostanley) / [Lummi](https://www.lummi.ai/)'
+image: '/images/stock/water.png'
+image_caption: 'Photo by [Shiho](https://www.lummi.ai/creator/ms.designs.0711-fcesu) / [Lummi](https://www.lummi.ai/)'
 ---
