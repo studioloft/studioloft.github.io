@@ -826,3 +826,325 @@
   summary: Visibility of subtle grayscale information in dark regions.
   details: >
     Essential for HDR accuracy and cinematic reproduction.
+
+    - term: Luminance
+  category: Imaging
+  summary: Amount of light emitted or reflected from a surface.
+  details: >
+    Measured in nits (cd/m²). Determines display brightness and visibility in
+    bright environments.
+
+- term: Chrominance
+  category: Imaging
+  summary: The color information of a signal separate from luminance.
+  details: >
+    Represents hue and saturation. Used in YCbCr video encoding.
+
+- term: YCbCr
+  category: Imaging
+  summary: Color encoding separating luma and chroma.
+  details: >
+    Used for video compression and transmission. Supports chroma subsampling
+    formats like 4:4:4, 4:2:2, and 4:2:0.
+
+- term: Chroma Subsampling
+  category: Imaging
+  summary: Technique for reducing color data relative to luma.
+  details: >
+    Formats like 4:2:0 and 4:2:2 reduce bandwidth requirements but may affect
+    text clarity and fine details.
+
+- term: 4:4:4 Sampling
+  category: Imaging
+  summary: Full-resolution color information with no subsampling.
+  details: >
+    Ideal for PC use and text rendering. Requires high bandwidth connections.
+
+- term: Luma
+  category: Imaging
+  summary: Black-and-white brightness component of video.
+  details: >
+    Derived from RGB and weighted to match human visual sensitivity to green.
+
+- term: EDID (Extended Display Identification Data)
+  category: Electronics
+  summary: Metadata that defines a display’s capabilities.
+  details: >
+    Includes supported resolutions, refresh rates, color formats, and HDR modes.
+    Read by GPUs via HDMI or DisplayPort.
+
+- term: DisplayPort
+  category: Electronics
+  summary: High-bandwidth digital display interface.
+  details: >
+    Supports features like DSC, adaptive sync, high refresh rates, and
+    daisy-chaining via MST.
+
+- term: HDMI
+  category: Electronics
+  summary: Consumer audiovisual interface for displays and TVs.
+  details: >
+    Versions like HDMI 2.0 and 2.1 define maximum bandwidth, HDR formats, and
+    gaming features such as VRR and ALLM.
+
+- term: DSC (Display Stream Compression)
+  category: Electronics
+  summary: Visually lossless compression for high-resolution output.
+  details: >
+    Enables 4K 240 Hz or 8K 120 Hz over existing cable limits using lightweight,
+    low-latency compression.
+
+- term: MST (Multi-Stream Transport)
+  category: Electronics
+  summary: DisplayPort feature enabling multiple displays on a single link.
+  details: >
+    Allows daisy-chaining and multi-monitor setups using a single DP output.
+
+- term: Panel Binning
+  category: Manufacturing
+  summary: Sorting panels based on performance characteristics.
+  details: >
+    Panels with better uniformity, brightness, or pixel consistency receive
+    higher bins for premium models.
+
+- term: Yield Rate
+  category: Manufacturing
+  summary: Percentage of manufactured panels that meet quality standards.
+  details: >
+    Lower yields increase production costs, especially for new technologies
+    like MicroLED.
+
+- term: Bezel
+  category: Display Technology
+  summary: The outer frame surrounding a display panel.
+  details: >
+    Modern displays use thin bezels for multi-monitor setups and aesthetics.
+
+- term: Native Aspect Ratio
+  category: Display Technology
+  summary: Width-to-height ratio of the display's pixel matrix.
+  details: >
+    Common ratios include 16:9, 21:9 ultrawide, and 32:9 super-ultrawide.
+
+- term: Ultrawide Monitor
+  category: Display Technology
+  summary: Monitor with a 21:9 or 32:9 aspect ratio.
+  details: >
+    Provides extended horizontal workspace or immersive gaming experiences.
+
+- term: OLED Compensation Cycle
+  category: Display Technology
+  summary: Pixel-refresh process preventing image retention.
+  details: >
+    Runs periodically to equalize pixel wear, reducing long-term burn-in risk.
+
+- term: HDR Metadata
+  category: Imaging
+  summary: Supplemental data describing mastering brightness levels.
+  details: >
+    Static or dynamic metadata informs the display how to map HDR content.
+
+- term: ANSI Contrast
+  category: Display Technology
+  summary: Contrast measured using a checkerboard pattern.
+  details: >
+    Reflects real-world contrast more accurately than full-field tests.
+
+- term: Color Management
+  category: Imaging
+  summary: System ensuring consistent color across devices.
+  details: >
+    Uses ICC profiles and calibration targets for accurate reproduction in
+    photography and video.
+
+- term: ICC Profile
+  category: Imaging
+  summary: Data file describing color characteristics of a device.
+  details: >
+    Profiles define how to convert between device color spaces and reference
+    spaces like XYZ or Lab.
+
+- term: Wide Gamut Display
+  category: Display Technology
+  summary: Screen covering a large portion of DCI-P3 or Rec.2020.
+  details: >
+    Produces more vivid colors suitable for HDR content and creative workflows.
+
+- term: Rec.709
+  category: Imaging
+  summary: Standard color space for HDTV content.
+  details: >
+    Defines the color primaries, gamma, and white point for SDR content.
+
+- term: DCI-P3
+  category: Imaging
+  summary: Wide gamut color space used for digital cinema.
+  details: >
+    Covers more saturated greens and reds than sRGB. Common in HDR displays.
+
+- term: Rec.2020
+  category: Imaging
+  summary: Ultra-wide color gamut used for HDR and future video standards.
+  details: >
+    Encompasses nearly all visible colors, though no consumer display fully
+    covers it yet.
+
+- term: BT.1886
+  category: Imaging
+  summary: Standard gamma curve for professional video mastering.
+  details: >
+    Provides consistent shadow rendering for broadcast SDR.
+
+- term: Perceptual Quantizer (PQ)
+  category: Imaging
+  summary: HDR transfer function modeled after human vision.
+  details: >
+    Used in HDR10 and Dolby Vision. Enables precise highlight rendering.
+
+- term: HBM (High Brightness Mode)
+  category: Display Technology
+  summary: Temporary mode increasing brightness for visibility.
+  details: >
+    Used in laptops and phones to combat outdoor glare. May reduce longevity.
+
+- term: Safe Area
+  category: Imaging
+  summary: Region of a frame free from cropping on consumer TVs.
+  details: >
+    Ensures critical content is not lost due to overscan or scaling.
+
+- term: Overscan
+  category: Display Technology
+  summary: Cropping of edges on some TVs.
+  details: >
+    Legacy behavior from CRTs. Reduces pixel-perfect clarity on modern digital
+    displays.
+
+- term: Underscan
+  category: Display Technology
+  summary: Displays the entire image with black borders.
+  details: >
+    Used to ensure full visibility when overscan cannot be disabled.
+
+- term: SDR (Standard Dynamic Range)
+  category: Imaging
+  summary: Traditional video format with limited brightness and color.
+  details: >
+    Uses Rec.709 color gamut and gamma-based EOTFs. Typical brightness peaks
+    around 100–300 nits.
+
+- term: FRC Panel
+  category: Display Technology
+  summary: Panel that uses temporal dithering to mimic higher bit depth.
+  details: >
+    Often marketed as "10-bit" panels but rely partially on dithering.
+
+- term: Hotspotting
+  category: Display Technology
+  summary: Uneven brightness from edge-lit backlights.
+  details: >
+    Appears as bright patches, especially on cheaper LCD monitors and TVs.
+
+- term: Clouding
+  category: Display Technology
+  summary: Bright patches caused by panel pressure or backlight issues.
+  details: >
+    More visible in dark scenes and on edge-lit designs.
+
+- term: Image Persistence
+  category: Display Technology
+  summary: Temporary retention of static content.
+  details: >
+    Common in LCDs after leaving static images for hours. Usually reversible.
+
+- term: Pixel Refresher
+  category: Display Technology
+  summary: Maintenance routine for OLED pixels.
+  details: >
+    Runs automatically to equalize wear and prevent long-term burn-in.
+
+- term: Viewing Distance
+  category: Display Technology
+  summary: Optimal distance to perceive detail without aliasing.
+  details: >
+    Depends on screen size and resolution. Higher PPI allows closer viewing.
+
+- term: Ambient Light Sensor
+  category: Electronics
+  summary: Component detecting room brightness.
+  details: >
+    Enables automatic brightness adjustment for power savings and visibility.
+
+- term: Gamut Clipping
+  category: Imaging
+  summary: Loss of color detail when content exceeds display gamut.
+  details: >
+    Causes oversaturated or inaccurate colors when wide-gamut content is shown
+    on narrow-gamut displays.
+
+- term: BT.2100
+  category: Imaging
+  summary: HDR specification defining color space and EOTF.
+  details: >
+    Supports PQ and HLG for HDR video delivery in modern broadcasting.
+
+- term: Digital Micromirror Device (DMD)
+  category: Display Technology
+  summary: MEMS mirror array used in DLP projectors.
+  details: >
+    Mirrors tilt rapidly to modulate light output. Enables high-speed and
+    high-contrast projection.
+
+- term: Color Wheel
+  category: Display Technology
+  summary: Rotating filter used in single-chip DLP projectors.
+  details: >
+    Sequentially shows RGB (and sometimes white or cyan/magenta/yellow)
+    segments, potentially causing rainbow artifacts.
+
+- term: Rainbow Effect
+  category: Display Technology
+  summary: Visible color fringing on DLP projectors.
+  details: >
+    Seen during fast eye movements due to sequential color display.
+
+- term: Laser Phosphor Light Engine
+  category: Display Technology
+  summary: Projection light source mixing blue lasers with phosphor.
+  details: >
+    Produces bright white light for long-lasting, high-lumen projectors.
+
+- term: OLED Aging Compensation
+  category: Display Technology
+  summary: System adjusting pixel output as emissive materials degrade.
+  details: >
+    Maintains color accuracy and uniformity over time by modifying per-pixel
+    drive current.
+
+- term: Panel Coating Hardness
+  category: Display Technology
+  summary: Durability of a screen’s outer surface.
+  details: >
+    Determines scratch resistance and reflectivity. Measured using pencil
+    hardness scales.
+
+- term: Subpixel Rendering
+  category: Imaging
+  summary: Technique for improving text clarity using RGB layout.
+  details: >
+    Used by ClearType and similar algorithms to increase perceived horizontal
+    resolution.
+
+- term: 3D LUT Calibration
+  category: Imaging
+  summary: Advanced color calibration using a 3D cube map.
+  details: >
+    Provides highly accurate color correction by accounting for interactions
+    between RGB channels.
+
+- term: White Balance
+  category: Imaging
+  summary: Adjustment ensuring neutral whites and grays.
+  details: >
+    Set using temperature (Kelvin) and tint (magenta–green) values to match
+    calibration standards.
