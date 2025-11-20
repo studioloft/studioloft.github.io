@@ -19,7 +19,7 @@
     Occurs because different wavelengths of light refract by different amounts
     when passing through a lens element.
 
-    - term: Singlemode Fiber
+- term: Singlemode Fiber
   category: Fiber Technology
   summary: Narrow-core fiber supporting a single propagation mode.
   details: >
@@ -159,8 +159,6 @@
   details: >
     Macro-bends create measurable attenuation; micro-bends introduce subtle
     scattering. Bend-insensitive fiber reduces these effects.
-
----
 
 - term: Transmissive Display
   category: Display Technology
@@ -342,7 +340,7 @@
     Higher refresh rates (120–360 Hz) improve motion clarity and reduce input
     latency. Must be paired with sufficient response time for best results.
 
-    - term: Numerical Aperture (NA)
+- term: Numerical Aperture (NA)
   category: Fiber Technology
   summary: Measure of a fiber's light-gathering ability.
   details: >
@@ -483,7 +481,7 @@
     Restricts full-screen brightness to protect organic emitters. Noticeable
     in UI elements or games with bright full-screen scenes.
 
-    - term: Backlight Unit (BLU)
+- term: Backlight Unit (BLU)
   category: Display Technology
   summary: The illumination system behind an LCD panel.
   details: >
@@ -827,7 +825,7 @@
   details: >
     Essential for HDR accuracy and cinematic reproduction.
 
-    - term: Luminance
+- term: Luminance
   category: Imaging
   summary: Amount of light emitted or reflected from a surface.
   details: >
