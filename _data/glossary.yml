@@ -341,3 +341,488 @@
   details: >
     Higher refresh rates (120–360 Hz) improve motion clarity and reduce input
     latency. Must be paired with sufficient response time for best results.
+
+    - term: Numerical Aperture (NA)
+  category: Fiber Technology
+  summary: Measure of a fiber's light-gathering ability.
+  details: >
+    Higher NA allows easier coupling of light into multimode fiber but increases
+    modal dispersion. Singlemode fibers use very low NA to maintain a single
+    propagation mode.
+
+- term: Core Cladding
+  category: Fiber Technology
+  summary: The two primary layers of an optical fiber.
+  details: >
+    The core carries the optical signal while the cladding provides total
+    internal reflection. Typical diameters are 9/125 µm (SMF) and 50/125 µm or
+    62.5/125 µm (MMF).
+
+- term: Total Internal Reflection
+  category: Fiber Technology
+  summary: Mechanism that traps light inside the fiber core.
+  details: >
+    Occurs when light hits the core–cladding boundary at angles greater than the
+    critical angle, enabling long-distance optical transmission.
+
+- term: Fiber Patch Cord
+  category: Fiber Technology
+  summary: Short fiber cable used to connect equipment.
+  details: >
+    Typically uses LC, SC, or MPO connectors. Available in simplex, duplex, or
+    multi-fiber variants for data centers and telecom racks.
+
+- term: Duplex Fiber
+  category: Fiber Technology
+  summary: Two fibers used for bidirectional communication.
+  details: >
+    One fiber transmits and the other receives. Standard for Ethernet optics
+    like 1G/10GBASE-LX or SX.
+
+- term: Simplex Fiber
+  category: Fiber Technology
+  summary: Single fiber used for one-way communication.
+  details: >
+    Used for specialized sensing, monitoring, or optical distribution systems.
+
+- term: Fiber Cleave
+  category: Fiber Technology
+  summary: Precision cutting of a fiber for splicing.
+  details: >
+    Must be perfectly flat and perpendicular to the fiber axis to minimize loss
+    and back reflection during fusion splicing.
+
+- term: Fusion Splice
+  category: Fiber Technology
+  summary: Permanent joining of two fibers by melting the glass.
+  details: >
+    Provides very low insertion loss (~0.05 dB). Requires precise alignment and
+    high-quality cleaving to prevent reflection or micro-bending.
+
+- term: Mechanical Splice
+  category: Fiber Technology
+  summary: Non-permanent fiber joint using alignment gel or clamps.
+  details: >
+    Easier to install but higher loss (~0.3–0.7 dB) compared to fusion splicing.
+    Useful for emergency repairs or areas without splicing equipment.
+
+- term: Insertion Loss (IL)
+  category: Fiber Technology
+  summary: Total optical loss introduced by a component.
+  details: >
+    Measured in dB, representing how much signal power is lost across connectors,
+    splices, patch panels, or splitters.
+
+- term: Optical Splitter
+  category: Fiber Technology
+  summary: Device that divides optical power among outputs.
+  details: >
+    Used in PON networks (e.g., 1:2, 1:4, 1:8, 1:16). Splitting introduces
+    predictable attenuation based on the split ratio.
+
+- term: FALD (Full-Array Local Dimming)
+  category: Display Technology
+  summary: LCD backlighting with LED zones across the entire panel.
+  details: >
+    Improves contrast by independently dimming sections behind the LCD layer.
+    More zones reduce blooming and enhance HDR performance.
+
+- term: Edge-Lit LCD
+  category: Display Technology
+  summary: LCD panels with LEDs positioned along the edges.
+  details: >
+    Cheaper and thinner than FALD or Mini-LED but provides weak local dimming,
+    low contrast, and significant blooming.
+
+- term: WOLED (White OLED)
+  category: Display Technology
+  summary: OLED architecture using white subpixels filtered into RGB.
+  details: >
+    LG panels use WRGB (white plus RGB subpixels). Efficient but slightly less
+    sharp than RGB-stripe OLED due to color filtering.
+
+- term: Diffuser Layer
+  category: Display Technology
+  summary: Layer that spreads backlight evenly across LCD panels.
+  details: >
+    Ensures uniform brightness by scattering LED light. Thickness and material
+    quality affect uniformity and light efficiency.
+
+- term: Quantum Dots
+  category: Display Technology
+  summary: Nanocrystals that convert blue light to pure red and green.
+  details: >
+    Used in QLED and QD-OLED displays to improve color purity, boosting color
+    gamut to near-Rec.2020 coverage.
+
+- term: Overdrive
+  category: Display Technology
+  summary: Pixel-voltage boosting to speed up LCD response times.
+  details: >
+    Reduces ghosting by accelerating pixel transitions. Excessive overdrive
+    causes overshoot artifacts such as inverse ghosting.
+
+- term: PWM Dimming
+  category: Display Technology
+  summary: Backlight brightness control via rapid pulsing.
+  details: >
+    Can cause flicker at low frequencies (<500 Hz). Higher-frequency PWM or
+    DC dimming reduces eye strain.
+
+- term: Static Contrast Ratio
+  category: Display Technology
+  summary: Contrast measured in a single static frame.
+  details: >
+    Unlike dynamic contrast (using dimming tricks), static contrast reflects the
+    native black and white levels of the panel without processing.
+
+- term: ABL (Automatic Brightness Limiter)
+  category: Display Technology
+  summary: OLED power-limiting behavior under large bright images.
+  details: >
+    Restricts full-screen brightness to protect organic emitters. Noticeable
+    in UI elements or games with bright full-screen scenes.
+
+    - term: Backlight Unit (BLU)
+  category: Display Technology
+  summary: The illumination system behind an LCD panel.
+  details: >
+    Consists of LEDs, a light guide plate, diffusers, and prism sheets. Quality
+    of the BLU determines brightness uniformity and HDR capability.
+
+- term: Light Guide Plate (LGP)
+  category: Display Technology
+  summary: Plate that distributes LED light across an LCD panel.
+  details: >
+    Guides light from edge LEDs to the full display surface. Often paired with
+    diffuser and prism sheets for uniform illumination.
+
+- term: Prism Sheet
+  category: Display Technology
+  summary: Optical layer that increases forward-directed brightness.
+  details: >
+    Refracts light toward the viewer to improve luminance. Found in many LCD
+    backlight assemblies.
+
+- term: Anti-Reflective Coating
+  category: Display Technology
+  summary: Coating that reduces reflections from ambient light.
+  details: >
+    Applied to the panel surface to minimize glare and improve contrast,
+    especially in bright rooms.
+
+- term: Anti-Glare Coating
+  category: Display Technology
+  summary: Surface treatment that scatters reflected light.
+  details: >
+    Reduces sharp reflections but can slightly soften image detail compared to
+    glossy coatings.
+
+- term: Glossy Finish
+  category: Display Technology
+  summary: Highly reflective screen finish offering sharp perceived contrast.
+  details: >
+    Enhances blacks and color saturation but reflects ambient light heavily,
+    impacting usability in bright environments.
+
+- term: Semi-Gloss Finish
+  category: Display Technology
+  summary: Balanced finish between glare reduction and image clarity.
+  details: >
+    Provides moderate reflection control while preserving crisp image quality.
+
+- term: Viewing Cone
+  category: Display Technology
+  summary: Angular range where image quality remains consistent.
+  details: >
+    Affected by panel technology; IPS and emissive displays have the widest
+    viewing cones, while TN is narrow.
+
+- term: Color Volume
+  category: Display Technology
+  summary: Color gamut extended across brightness levels.
+  details: >
+    Indicates how well a display maintains saturation at various luminance
+    levels. QD-based displays excel in color volume.
+
+- term: Tone Mapping
+  category: Display Technology
+  summary: Method of converting HDR input to displayable luminance.
+  details: >
+    Prevents clipping in bright scenes and preserves details in highlights.
+    Each display uses proprietary tone-mapping algorithms.
+
+- term: EOTF (Electro-Optical Transfer Function)
+  category: Display Technology
+  summary: Defines how digital signal values convert to luminance.
+  details: >
+    Standards include SDR gamma 2.2/2.4 and HDR PQ/HLG. Critical for accurate
+    video reproduction.
+
+- term: ST.2084 (PQ)
+  category: Display Technology
+  summary: HDR EOTF used for HDR10 and Dolby Vision content.
+  details: >
+    Supports extremely high peak luminance up to 10,000 nits, mapping digital
+    values to human visual response.
+
+- term: HLG (Hybrid Log-Gamma)
+  category: Display Technology
+  summary: Broadcast-friendly HDR format.
+  details: >
+    Designed by NHK and BBC; requires no metadata and is backward compatible
+    with SDR workflows.
+
+- term: HDR10
+  category: Display Technology
+  summary: Most common HDR format using static metadata.
+  details: >
+    Metadata defines mastering peak brightness and color space but does not
+    vary scene-by-scene.
+
+- term: HDR10+
+  category: Display Technology
+  summary: HDR format using dynamic metadata.
+  details: >
+    Allows frame-by-frame adjustment of tone mapping. Developed by Samsung and
+    Amazon.
+
+- term: Dolby Vision
+  category: Display Technology
+  summary: Premium HDR format with dynamic metadata and higher bit depth support.
+  details: >
+    Supports 12-bit color and dynamic tone mapping optimized per scene or frame.
+
+- term: Bit Depth
+  category: Display Technology
+  summary: Number of bits used to encode each channel of a pixel.
+  details: >
+    10-bit and 12-bit panels reduce banding and increase gradient smoothness
+    compared to 8-bit displays.
+
+- term: Color Banding
+  category: Display Technology
+  summary: Visible steps between gradients caused by insufficient bit depth.
+  details: >
+    More common on 8-bit displays. Mitigated by dithering techniques.
+
+- term: Temporal Dithering (FRC)
+  category: Display Technology
+  summary: Frame-by-frame color modulation to simulate higher bit depth.
+  details: >
+    Used in 8-bit+FRC panels to approximate 10-bit output by rapidly alternating
+    pixel values.
+
+- term: Static Dithering
+  category: Display Technology
+  summary: Pixel-level noise pattern to smooth gradients.
+  details: >
+    Less effective than temporal dithering but still helps mitigate banding.
+
+- term: Uniformity Compensation
+  category: Display Technology
+  summary: Correction applied to brighten or dim regions for consistency.
+  details: >
+    Improves luminance and color uniformity across the panel, especially on
+    professional monitors.
+
+- term: Pixel Response Curve
+  category: Display Technology
+  summary: Graph of pixel transition times across levels.
+  details: >
+    Shows how quickly a display transitions between gray levels. Important for
+    gaming performance.
+
+- term: MPRT (Moving Picture Response Time)
+  category: Display Technology
+  summary: Motion clarity metric reflecting perceived blur.
+  details: >
+    Lower MPRT improves clarity. Achieved through higher refresh rates or
+    backlight strobing.
+
+- term: Black Frame Insertion (BFI)
+  category: Display Technology
+  summary: Method of reducing motion blur by inserting black frames.
+  details: >
+    Mimics CRT-like motion clarity but may reduce brightness and cause flicker.
+
+- term: Backlight Strobing
+  category: Display Technology
+  summary: Flickering backlight synchronized with refresh cycles.
+  details: >
+    Eliminates sample-and-hold motion blur. Requires precise timing and may
+    introduce double-image artifacts.
+
+- term: Sample-and-Hold Blur
+  category: Display Technology
+  summary: Blur caused by continuous illumination during LCD frame hold.
+  details: >
+    A major source of motion blur in LCDs. Reduced by higher refresh rates,
+    strobing, or emissive technology.
+
+- term: Panel Lottery
+  category: Display Technology
+  summary: Variation in quality between panels of the same model.
+  details: >
+    Differences in uniformity, contrast, and glow occur due to manufacturing
+    tolerances.
+
+- term: Pixel Pitch
+  category: Display Technology
+  summary: Distance between pixel centers.
+  details: >
+    Smaller pixel pitch increases sharpness and reduces screen-door effect,
+    especially important for VR and high-DPI monitors.
+
+- term: Screen Door Effect
+  category: Display Technology
+  summary: Visible grid pattern between pixels.
+  details: >
+    Common in early VR headsets or low-PPI displays where pixel gaps are large.
+
+- term: A-TW Polarizer
+  category: Display Technology
+  summary: Advanced True Wide polarizer reducing IPS glow.
+  details: >
+    Used in premium IPS displays to reduce off-axis glow and improve black
+    uniformity.
+
+- term: AGLR (Anti-Glare/Low-Reflection)
+  category: Display Technology
+  summary: Surface treatment balancing clarity and low reflectivity.
+  details: >
+    Reduces reflections while keeping image sharpness higher than heavy
+    matte finishes.
+
+- term: Native Panel Resolution
+  category: Display Technology
+  summary: Physical pixel dimensions of a display.
+  details: >
+    Scaling to non-native resolutions reduces sharpness unless advanced scaling
+    algorithms are used.
+
+- term: Integer Scaling
+  category: Display Technology
+  summary: Scaling method that preserves pixel edges in retro content.
+  details: >
+    Ideal for pixel art and older consoles. Maintains sharp, clean lines.
+
+- term: VRR (Variable Refresh Rate)
+  category: Display Technology
+  summary: Synchronizes refresh rate to GPU output.
+  details: >
+    Eliminates tearing and reduces stutter. Includes G-SYNC, FreeSync, and HDMI
+    2.1 VRR.
+
+- term: G-SYNC
+  category: Display Technology
+  summary: NVIDIA’s proprietary VRR technology.
+  details: >
+    Hardware G-SYNC modules provide low latency, wider VRR ranges, and superior
+    overdrive tuning.
+
+- term: FreeSync
+  category: Display Technology
+  summary: AMD’s adaptive refresh rate technology.
+  details: >
+    Uses open standards via DisplayPort/HDMI. Ranges from basic FreeSync to
+    FreeSync Premium and Premium Pro.
+
+- term: HDMI 2.1 VRR
+  category: Display Technology
+  summary: Standardized variable refresh rate feature in HDMI 2.1.
+  details: >
+    Enables VRR on consoles like PS5 and Xbox Series X and modern TVs.
+
+- term: ALLM (Auto Low Latency Mode)
+  category: Display Technology
+  summary: Automatically switches display into low-latency mode.
+  details: >
+    Used in gaming consoles and PCs to minimize input lag for gameplay.
+
+- term: HGIG (HDR Gaming Interest Group)
+  category: Display Technology
+  summary: HDR guidelines for consistent gaming experiences.
+  details: >
+    Specifies how games should tone-map for displays to prevent double
+    processing or inaccurate HDR output.
+
+- term: White Point
+  category: Display Technology
+  summary: Chromaticity reference for neutral white.
+  details: >
+    D65 (6504K) is the standard for video, while higher color temperatures look
+    cooler and lower temperatures look warmer.
+
+- term: Delta E (dE)
+  category: Display Technology
+  summary: Measurement of color error perceptibility.
+  details: >
+    dE < 2 is typically considered excellent for professional use.
+
+- term: LUT (Look-Up Table)
+  category: Display Technology
+  summary: Table that maps input values to calibrated output colors.
+  details: >
+    3D LUTs allow precise color calibration for professional monitors.
+
+- term: Panel Uniformity
+  category: Display Technology
+  summary: Evenness of brightness and color across the panel.
+  details: >
+    Issues like vignetting, clouding, and banding can degrade uniformity.
+
+- term: Dirty Screen Effect (DSE)
+  category: Display Technology
+  summary: Patchy or streaky appearance during panning.
+  details: >
+    Most noticeable in sports content and caused by panel non-uniformity.
+
+- term: Blooming
+  category: Display Technology
+  summary: Light halo around bright objects on dimming-zone displays.
+  details: >
+    Occurs in FALD and Mini-LED displays when bright areas illuminate adjacent
+    dark zones.
+
+- term: Gradient Handling
+  category: Display Technology
+  summary: How smoothly a display renders color transitions.
+  details: >
+    Depends heavily on bit depth, dithering, and panel processing quality.
+
+- term: Motion Interpolation
+  category: Display Technology
+  summary: Generates intermediate frames to increase perceived motion smoothness.
+  details: >
+    Useful for video content but can introduce soap-opera effect or artifacts.
+
+- term: Soap-Opera Effect
+  category: Display Technology
+  summary: Overly smooth motion resulting from interpolation.
+  details: >
+    Makes films look like high-frame-rate video. Some viewers find it unnatural.
+
+- term: Panel Refresh Stability
+  category: Display Technology
+  summary: How well a display maintains consistent refresh behavior.
+  details: >
+    Poor stability can cause flicker, frame drops, or inconsistent VRR behavior.
+
+- term: High APL (Average Picture Level)
+  category: Display Technology
+  summary: Measurement of overall scene brightness.
+  details: >
+    OLEDs are often limited in high-APL scenes due to ABL constraints.
+
+- term: Black Crush
+  category: Display Technology
+  summary: Loss of shadow detail in dark scenes.
+  details: >
+    Often caused by aggressive tone mapping or poor gamma handling.
+
+- term: Shadow Detail
+  category: Display Technology
+  summary: Visibility of subtle grayscale information in dark regions.
+  details: >
+    Essential for HDR accuracy and cinematic reproduction.
