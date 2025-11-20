@@ -18,3 +18,326 @@
   details: >
     Occurs because different wavelengths of light refract by different amounts
     when passing through a lens element.
+
+    - term: Singlemode Fiber
+  category: Fiber Technology
+  summary: Narrow-core fiber supporting a single propagation mode.
+  details: >
+    Uses a ~9 µm core which eliminates modal dispersion and enables extremely
+    long-distance transmission (10–80+ km depending on optics). Ideal for
+    long-haul, metro networks, and high-bandwidth backbone links.
+
+- term: Multimode Fiber
+  category: Fiber Technology
+  summary: Fiber with a wider core that supports multiple propagation modes.
+  details: >
+    Core sizes of 50 µm or 62.5 µm allow multiple light paths. Higher modal
+    dispersion limits reach, but the fibers support inexpensive VCSEL lasers,
+    making them ideal for data centers and enterprise LANs.
+
+- term: OS1
+  category: Fiber Technology
+  summary: Indoor-rated singlemode fiber with higher attenuation than OS2.
+  details: >
+    OS1 fiber operates within buildings and risers with typical attenuation
+    around 1.0 dB/km. Commonly used for patching, short trunks, and controlled
+    indoor installations. Typically jacketed in yellow.
+
+- term: OS2
+  category: Fiber Technology
+  summary: Outdoor/long-distance singlemode fiber with low attenuation.
+  details: >
+    Featuring attenuation around 0.3–0.4 dB/km, OS2 supports long-haul,
+    metro, and campus links. Uses wavelengths such as 1310 nm, 1550 nm, and
+    1625 nm. Typically yellow jacketed like OS1.
+
+- term: OM1
+  category: Fiber Technology
+  summary: Legacy multimode fiber with a 62.5 µm core.
+  details: >
+    LED-optimized fiber with low bandwidth performance. Supports 10 Gbps only
+    up to ~33 meters. Largely obsolete in modern networks.
+
+- term: OM2
+  category: Fiber Technology
+  summary: 50 µm multimode fiber with moderate bandwidth.
+  details: >
+    Supports 10 Gbps up to ~82 m. Now replaced by OM3/OM4 but still found in
+    older enterprise installs.
+
+- term: OM3
+  category: Fiber Technology
+  summary: Laser-optimized multimode fiber for high-speed VCSEL links.
+  details: >
+    Supports 10 Gbps to ~300 m, and 40/100 Gbps using parallel optics. Its
+    high bandwidth (~2000 MHz·km) makes it common in data center links.
+    Usually aqua-colored.
+
+- term: OM4
+  category: Fiber Technology
+  summary: Enhanced multimode fiber with very high bandwidth.
+  details: >
+    Extends 10 Gbps reach to ~550 m and offers ~4700 MHz·km bandwidth. Widely
+    used in high-performance enterprise networks. Jacket colors include aqua
+    and sometimes violet.
+
+- term: OM5
+  category: Fiber Technology
+  summary: Wideband multimode fiber supporting SWDM.
+  details: >
+    Allows multiple wavelengths (850–953 nm) to travel in the same fiber,
+    boosting throughput without adding more cables. Backward compatible with
+    OM3/OM4. Jacket color is lime green.
+
+- term: VCSEL
+  category: Fiber Technology
+  summary: Vertical-Cavity Surface-Emitting Laser used for MMF.
+  details: >
+    Efficient, low-cost laser source optimized for OM3/OM4 multimode systems,
+    enabling high data rates (10–100 Gbps) over short distances.
+
+- term: Wavelength (nm)
+  category: Fiber Technology
+  summary: The optical frequency used for transmission.
+  details: >
+    Typical singlemode wavelengths include 1310, 1490, 1550, and 1625 nm.
+    Wavelength affects attenuation, dispersion, and DWDM channel spacing.
+
+- term: Attenuation
+  category: Fiber Technology
+  summary: Loss of signal power over distance.
+  details: >
+    Measured in dB/km. Caused by absorption, scattering, and bending. Lower
+    attenuation allows longer transmission distances and higher bandwidth.
+
+- term: Modal Dispersion
+  category: Fiber Technology
+  summary: Signal spreading due to multiple propagation paths.
+  details: >
+    The primary limitation of multimode fiber. Reduces bandwidth and limits
+    reach at high data rates.
+
+- term: Chromatic Dispersion
+  category: Fiber Technology
+  summary: Wavelength-dependent spreading of optical signals.
+  details: >
+    Affects singlemode fiber, especially over long distances. Can be mitigated
+    with dispersion compensation modules or coherent DSP.
+
+- term: SWDM
+  category: Fiber Technology
+  summary: Shortwave Wavelength Division Multiplexing for MMF.
+  details: >
+    Enables 4 wavelengths over multimode fiber (e.g., 850–953 nm) to increase
+    data throughput without additional cabling. Enabled primarily on OM5.
+
+- term: MPO/MTP
+  category: Fiber Technology
+  summary: High-density multi-fiber connector standards.
+  details: >
+    Available in 8, 12, 24, 48, or 72-fiber formats. Essential for 40/100/400G
+    parallel optics and high-density patching.
+
+- term: LC Connector
+  category: Fiber Technology
+  summary: Small form factor duplex connector.
+  details: >
+    The most widely used connector in modern optical networking. Features a
+    latch mechanism and supports both SMF and MMF.
+
+- term: Optical Return Loss (ORL)
+  category: Fiber Technology
+  summary: Measure of reflected optical power.
+  details: >
+    Caused by imperfect connectors, dirty endfaces, or fiber defects.
+    Excessive ORL degrades transmitter performance, especially in high-speed
+    singlemode links.
+
+- term: Bend Radius
+  category: Fiber Technology
+  summary: Minimum curvature fiber can tolerate without added loss.
+  details: >
+    Macro-bends create measurable attenuation; micro-bends introduce subtle
+    scattering. Bend-insensitive fiber reduces these effects.
+
+---
+
+- term: Transmissive Display
+  category: Display Technology
+  summary: Display where light is produced by a backlight.
+  details: >
+    Includes most LCD technologies. The backlight shines through polarizers,
+    liquid crystals, and RGB filters. Black levels and contrast are limited by
+    light leakage.
+
+- term: Emissive Display
+  category: Display Technology
+  summary: Display where each pixel emits its own light.
+  details: >
+    Includes OLED, QD-OLED, and MicroLED. Enables true blacks, extremely high
+    contrast, ultra-fast response times, and wide viewing angles.
+
+- term: TN Panel
+  category: Display Technology
+  summary: Twisted Nematic LCD technology with fast response times.
+  details: >
+    Offers low input lag and high refresh rates but suffers from poor viewing
+    angles, low color accuracy, and lower contrast.
+
+- term: IPS Panel
+  category: Display Technology
+  summary: LCD technology with superior viewing angles and color accuracy.
+  details: >
+    Liquid crystals rotate in-plane, providing excellent consistency. Fast IPS
+    variants achieve ~1 ms response times but contrast is typically limited to
+    ~1000:1.
+
+- term: VA Panel
+  category: Display Technology
+  summary: LCD technology offering high native contrast.
+  details: >
+    Vertical liquid crystal alignment yields deep blacks (3000–6000:1) but can
+    introduce slower transitions and mild smearing in dark scenes.
+
+- term: Mini-LED
+  category: Display Technology
+  summary: LED backlight system with thousands of small LEDs.
+  details: >
+    Provides finer local dimming control, high brightness (1000–3000+ nits),
+    and improved HDR over standard LCDs. Still prone to blooming due to
+    zone-based dimming.
+
+- term: OLED
+  category: Display Technology
+  summary: Emissive technology using organic light-emitting compounds.
+  details: >
+    Delivers perfect blacks and extremely fast response times. Limitations
+    include limited full-screen brightness and long-term burn-in risk.
+
+- term: QD-OLED
+  category: Display Technology
+  summary: Hybrid display using blue OLED emitters and quantum dots.
+  details: >
+    Eliminates color filters, improving brightness and color gamut (near
+    Rec.2020). Offers higher efficiency than WOLED but maintains burn-in risk.
+
+- term: MicroLED
+  category: Display Technology
+  summary: Inorganic emissive display using microscopic LEDs per pixel.
+  details: >
+    Combines OLED-like contrast with LCD-like brightness and extremely long
+    lifespan. Manufacturing complexity keeps prices high.
+
+- term: Peak Brightness
+  category: Display Technology
+  summary: Maximum luminance output measured in nits.
+  details: >
+    SDR displays typically range from 200–400 nits; HDR displays range from
+    600–3000+ nits. Important for daylight viewing and HDR highlights.
+
+- term: Native Contrast Ratio
+  category: Display Technology
+  summary: Ratio of full-white to full-black brightness.
+  details: >
+    IPS panels average ~1000:1, VA panels ~3000–6000:1, Mini-LED improves the
+    effective contrast with dimming zones, and emissive technologies achieve
+    true zero-nit blacks.
+
+- term: Color Gamut
+  category: Display Technology
+  summary: Range of colors a display can reproduce.
+  details: >
+    Common gamuts include sRGB, DCI-P3, and Rec.2020. Large gamuts improve HDR
+    performance and accuracy for media creation.
+
+- term: Response Time
+  category: Display Technology
+  summary: Speed at which a pixel changes from one value to another.
+  details: >
+    Lower response times reduce motion blur and ghosting. Emissive displays
+    often achieve <0.1 ms; LCD speeds vary by panel type.
+
+- term: Input Lag
+  category: Display Technology
+  summary: Delay between input signal and on-screen response.
+  details: >
+    Critical for gaming. Lower lag (1–10 ms) improves responsiveness during
+    fast-paced gameplay.
+
+- term: Burn-in
+  category: Display Technology
+  summary: Permanent image retention caused by static content.
+  details: >
+    Affects OLED and QD-OLED due to organic emitter wear. Mitigated through
+    pixel shifting, varied content, and brightness management.
+
+- term: Viewing Angle
+  category: Display Technology
+  summary: Angle range over which color and brightness remain accurate.
+  details: >
+    IPS and emissive displays offer the widest viewing angles; TN and VA shift
+    more noticeably off-axis.
+
+- term: Local Dimming
+  category: Display Technology
+  summary: Technique that controls backlight zones independently.
+  details: >
+    Mini-LED and FALD systems dim specific regions to increase contrast. More
+    zones equal finer control and reduced blooming.
+
+- term: HDR (High Dynamic Range)
+  category: Display Technology
+  summary: Imaging standard supporting higher brightness and color volume.
+  details: >
+    Uses higher peak brightness, deeper blacks, and wide color gamut to improve
+    realism. Must be paired with a capable panel and metadata formats like
+    HDR10 or Dolby Vision.
+
+- term: Color Filters
+  category: Display Technology
+  summary: Red, green, and blue layers used in LCDs.
+  details: >
+    Filter white backlight into primary colors but reduce brightness and
+    efficiency. QD-OLED and MicroLED avoid color filters entirely.
+
+- term: Polarizer
+  category: Display Technology
+  summary: Optical layer controlling light polarization in LCDs.
+  details: >
+    Crucial for LCD operation. Polarizer quality affects contrast, glare
+    handling, and off-axis color shifts.
+
+- term: Backlight Bleed
+  category: Display Technology
+  summary: Light leakage around LCD edges or corners.
+  details: >
+    Caused by panel pressure, manufacturing tolerances, or chassis flex.
+    More visible in dark scenes.
+
+- term: IPS Glow
+  category: Display Technology
+  summary: Off-axis glowing effect unique to IPS panels.
+  details: >
+    Caused by scattering in the LC structure. More noticeable in dark rooms
+    at wide angles.
+
+- term: Gamma
+  category: Display Technology
+  summary: Relationship between input signal and luminance output.
+  details: >
+    Determines midtone brightness and color accuracy. Common gamma targets are
+    2.2 (PC), 2.4 (video), and BT.1886 (broadcast).
+
+- term: Subpixel Layout
+  category: Display Technology
+  summary: Arrangement of RGB components within a pixel.
+  details: >
+    Affects text clarity and rendering. Examples include RGB stripe, BGR, WRGB,
+    and triangular layouts found in QD-OLED.
+
+- term: Refresh Rate
+  category: Display Technology
+  summary: Number of times a display updates per second.
+  details: >
+    Higher refresh rates (120–360 Hz) improve motion clarity and reduce input
+    latency. Must be paired with sufficient response time for best results.
