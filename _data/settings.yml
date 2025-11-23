@@ -29,16 +29,22 @@ menu_settings:
       url: '/videos/'
     - title: 'Glossary'
       url: '/glossary/'
+    - title: 'About'
+      url: '/about/'
     - title: 'Archive'
       url: '/archive/'
+    - title: 'Contact'
+      url: '/contact/'
     - title: 'Pages'
       submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+      - url: '/tags/?tag=video'
+        title: 'Video'
+      - url: '/tags/?tag=computing'
+        title: 'Computing'
+      - url: '/tags/?tag=technology'
+        title: 'Technology'
+      - url: '/tags/?tag=security'
+        title: 'Security'
 
 
 #-------------------------------
@@ -115,7 +121,7 @@ videos_section:
 #-------------------------------
 # Gallery Section Settings
 gallery_section:
-  enable: true
+  enable: false
   gallery_section_title: Recent Infographics
   gallery:
     gallery_images:
