@@ -4,12 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<div class="gallery-box">
-  <div class="gallery gallery-columns-2">
-    {% include img.html src ="/images/01-4.jpg" alt="Keyboard" caption="The symphony of keys" %}
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+{% include hero.html %}
 
 Hey, I’m Alex - part developer, part digital explorer, and full-time lover of all things tech. From crafting lines of code on Linux to unraveling the layers of cybersecurity, my passion for technology goes beyond just a career.
 
