@@ -93,9 +93,9 @@ blog:
 # Tags Section Settings
 tags_section:
   enable: true
-  tags_section_title: Hacker’s Haven
+  tags_section_title: Topics
   tags:
-    - tag: "Programming"
+    - tag: "Technology"
       image: "/images/20.jpg"
     - tag: "Linux"
       image: "/images/21.jpg"
