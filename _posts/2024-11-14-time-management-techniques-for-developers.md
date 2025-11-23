@@ -4,7 +4,7 @@ title: Time Management Techniques for Developers
 description: In today’s fast-paced tech world, productivity is a skill that every coder and tech enthusiast needs to thrive. From managing projects to balancing personal development, effective time management allows you to stay focused, reduce stress, and maximize your output.
 date: 2024-11-14 15:01:35 +0300
 image: '/images/19.jpg'
-tags: [Productivity]
+tags: [Technology]
 tags_color: '#3eb99a'
 ---
 

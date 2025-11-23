@@ -5,7 +5,7 @@ description: In today’s fast-paced tech world, productivity is a skill that ev
 date: 2024-12-20 15:01:35 +0300
 image: '/images/06.jpg'
 video_embed: https://www.youtube.com/embed/58BHUsD24vs?si=4tBmh4UKz93bTCus
-tags: [Productivity]
+tags: [Technology]
 tags_color: '#3eb99a'
 ---
 

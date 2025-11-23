@@ -4,8 +4,8 @@ title: Top Indie Games Every Geek Should Try
 description: In recent years, indie games have transformed the gaming industry, offering unique experiences that often surpass mainstream titles in creativity and innovation.
 date: 2025-01-02 15:01:35 +0300
 image: '/images/09.jpg'
-tags: [Games]
-tags_color: '#ff4500'
+tags: [Technology]
+tags_color: '#3eb99a'
 toc: true
 ---
 

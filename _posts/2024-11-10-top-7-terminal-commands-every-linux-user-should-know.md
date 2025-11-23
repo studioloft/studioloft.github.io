@@ -4,7 +4,8 @@ title: Top 7 Terminal Commands Every Linux User Should Know
 description: Rooted in the principles of free software, Linux has evolved from a student’s project into a cornerstone of modern technology, powering everything from supercomputers to smartphones.
 date: 2024-11-10 15:01:35 +0300
 image: '/images/28.jpg'
-tags: [Linux]
+tags: [Technology]
+tags_color: '#3eb99a'
 ---
 
 Linux is more than just an operating system – it’s a philosophy of openness, collaboration, and adaptability. Rooted in the principles of free software, Linux has evolved from a student’s project into a cornerstone of modern technology, powering everything from supercomputers to smartphones.

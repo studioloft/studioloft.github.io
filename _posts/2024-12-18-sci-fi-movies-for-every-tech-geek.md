@@ -4,8 +4,8 @@ title: Sci-Fi Movies for Every Tech Geek
 description: From inspiring futuristic technologies to exploring existential questions, sci-fi movies push creative boundaries and leave a lasting impact.
 date: 2024-12-18 15:01:35 +0300
 image: '/images/03.jpg'
-tags: [Movies]
-tags_color: '#f14979'
+tags: [Technology]
+tags_color: '#3eb99a'
 ---
 
 Movies are an enduring testament to the power of storytelling. They capture the essence of human emotion, culture, and imagination, weaving narratives that resonate across generations. A single frame can evoke a memory, while a single line of dialogue can inspire reflection or change. From silent films of the early 20th century to today’s sprawling cinematic universes, movies have remained one of the most captivating forms of art and entertainment.

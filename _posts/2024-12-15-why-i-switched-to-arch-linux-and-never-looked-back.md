@@ -5,7 +5,6 @@ description: Rooted in the principles of free software, Linux has evolved from a
 date: 2024-12-15 15:01:35 +0300
 image: '/images/08.jpg'
 tags: [Linux]
-featured: true
 ---
 
 Linux is more than just an operating system – it’s a philosophy of openness, collaboration, and adaptability. Rooted in the principles of free software, Linux has evolved from a student’s project into a cornerstone of modern technology, powering everything from supercomputers to smartphones.
