@@ -95,12 +95,12 @@ tags_section:
   enable: true
   tags_section_title: Topics
   tags:
-    - tag: "Technology"
-      image: "/images/20.jpg"
-    - tag: "Computing"
-      image: "/images/stock/data-display.webp"
     - tag: "Video"
       image: "/images/stock/crt-wall.webp"
+    - tag: "Computing"
+      image: "/images/stock/data-display.webp"
+    - tag: "Technology"
+      image: "/images/20.jpg"
     - tag: "Security"
       image: "/images/23.jpg"
 
