@@ -5,7 +5,7 @@ description: Starting out in programming is thrilling, yet the number of languag
 date: 2025-01-05 15:01:35 +0300
 image: '/images/02.jpg'
 tags: [Video, Productivity]
-tags_color: '#4643ec, #ff4500'
+tags_color: '#4643ec'
 ---
 
 First, define your goals. If you’re interested in web development, JavaScript could be a great place to start, as it's essential for creating dynamic web applications. For general-purpose coding or data science, Python is a favorite due to its readability and versatility. Ruby, though somewhat specialized, shines in web development, especially with the Rails framework.
