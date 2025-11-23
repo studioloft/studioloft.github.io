@@ -6,6 +6,7 @@ date: 2025-11-08 15:01:35 +0300
 image: '/images/content/fiberopticcable.png'
 tags: [Computing]
 tags_color: '#ff4500'
+toc: true
 featured: true
 ---
 
