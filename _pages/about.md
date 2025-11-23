@@ -53,6 +53,25 @@ permalink: /about/
 </section>
 <!-- end hero -->
 
+Hi, I'm Gavin Hornak - I am a a full-time Broadcast Engineering and IT Technologist with almost 2 decades of experience. I started Studio Loft Media in 2008, originally focueed on media-industry education and resources helping early-career professionals understand the fundmentals of digital media and technical craft. Over time, the original mission caries on but as my career has transitioned more deeply into video engineering, live broadcast and IT infeastructure, Studio Loft evolved with me. Today Studio Loft exists as a space which expands on it's original intent and continues to encourage learning and professional growth for anyone passionate about modern media technology.
+
+My hope is that Studio Loft becomes a resource for engineers, students, operators and creatives who want to understand not just what we build, but why it matters. I hope you walk away with practical insights and inspiration to build, experiment and push the industry forward.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Hey, I’m Alex - part developer, part digital explorer, and full-time lover of all things tech. From crafting lines of code on Linux to unraveling the layers of cybersecurity, my passion for technology goes beyond just a career.
 
 {: .note }
