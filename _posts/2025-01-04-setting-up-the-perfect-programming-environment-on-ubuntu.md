@@ -6,6 +6,7 @@ date: 2025-01-04 15:01:35 +0300
 image: '/images/07.jpg'
 tags: [Linux]
 toc: true
+published: false
 ---
 
 Linux is more than just an operating system – it’s a philosophy of openness, collaboration, and adaptability. Rooted in the principles of free software, Linux has evolved from a student’s project into a cornerstone of modern technology, powering everything from supercomputers to smartphones.

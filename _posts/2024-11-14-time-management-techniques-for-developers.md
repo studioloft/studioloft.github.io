@@ -6,6 +6,7 @@ date: 2024-11-14 15:01:35 +0300
 image: '/images/19.jpg'
 tags: [Technology]
 tags_color: '#3eb99a'
+published: false
 ---
 
 In today’s fast-paced tech world, productivity is a skill that every coder and tech enthusiast needs to thrive. From managing projects to balancing personal development, effective time management allows you to stay focused, reduce stress, and maximize your output. This guide covers practical tips, productivity tools, and habits to help you achieve your goals.

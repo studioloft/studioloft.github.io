@@ -7,6 +7,7 @@ image: '/images/04.jpg'
 video_embed: https://www.youtube.com/embed/DBifQv9AYhc?si=SbgsvJEsE5Ag1mLL
 tags: [Technology]
 tags_color: '#3eb99a'
+published: false
 ---
 
 In our digital world, cybersecurity is more critical than ever. With new threats emerging daily, protecting your data and devices requires awareness and proactive measures. This guide covers essential cybersecurity practices to help you stay safe online, from password management to recognizing phishing scams.
