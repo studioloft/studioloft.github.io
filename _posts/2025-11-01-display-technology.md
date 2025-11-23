@@ -6,6 +6,7 @@ date: 2025-11-01 15:01:35 +0300
 image: '/images/content/panels-v25-11.png'
 tags: [Video]
 tags_color: '#4643ec'
+toc: true
 featured: true
 ---
 
