@@ -4,7 +4,7 @@ title: Avoiding Common JavaScript Mistakes and Writing Clean Code
 description: Starting out in programming is thrilling, yet the number of languages available makes it difficult to decide where to begin.
 date: 2025-01-05 15:01:35 +0300
 image: '/images/02.jpg'
-tags: [Programming]
+tags: [Video]
 tags_color: '#4643ec'
 ---
 
