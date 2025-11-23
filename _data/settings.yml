@@ -100,9 +100,9 @@ tags_section:
     - tag: "Computing"
       image: "/images/stock/data-display.webp"
     - tag: "Technology"
-      image: "/images/20.jpg"
+      image: "/images/stock/processor.webp"
     - tag: "Security"
-      image: "/images/23.jpg"
+      image: "/images/stock/cybersecurity.webp"
 
 
 #-------------------------------
