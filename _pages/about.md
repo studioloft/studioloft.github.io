@@ -53,76 +53,15 @@ permalink: /about/
 </section>
 <!-- end hero -->
 
-Hi, I'm Gavin Hornak - I am a a full-time Broadcast Engineering and IT Technologist with almost 2 decades of experience. I started Studio Loft Media in 2008, originally focueed on media-industry education and resources helping early-career professionals understand the fundmentals of digital media and technical craft. Over time, the original mission caries on but as my career has transitioned more deeply into video engineering, live broadcast and IT infeastructure, Studio Loft evolved with me. Today Studio Loft exists as a space which expands on it's original intent and continues to encourage learning and professional growth for anyone passionate about modern media technology.
+Hi, I'm Gavin Hornak - I am a full-time Broadcast Engineering and IT Technologist with almost 2 decades of experience. I started Studio Loft Media in 2008, originally focued on media-industry education and resources helping early-career professionals understand the fundamentals of digital media and technical craft. Over time, the original mission caries on. As my career has transitioned more deeply into video engineering, live broadcast and IT infrastructure, Studio Loft evolved with me. Today Studio Loft expands on it's original intent, continuing to encourage learning and professional growth for anyone passionate about modern media technology.
 
 My hope is that Studio Loft becomes a resource for engineers, students, operators and creatives who want to understand not just what we build, but why it matters. I hope you walk away with practical insights and inspiration to build, experiment and push the industry forward.
 
 {: .q-left }
 > “People think tech is rigid, but the truth is the opposite: once you understand the rules, you gain the freedom to bend them, optimize them, and build workflows no one else sees.”
 
+My goal with Studio Loft Media is simple: To bridge the gap between people and technology. Here, you'll find technical insight on topics such as IP routing, signal integrity, monitoring and alerting, HDR imaging, Rf/Wireless, Disaster-recovery engineering, virtual machines, cloud computing, centralized workflows, workflow automation, and ands-on production tools.
 
+Whether you're a student, a working creative, a future broadcast engineer or current media professional, this site is for you. I hope Studio Loft inspires you to experiment boldly, learn relentlessly, and push your technology beyond what you thought it was capable of.
 
-
-
-
-
-
-
-
-
-
-
-
-Hey, I’m Alex - part developer, part digital explorer, and full-time lover of all things tech. From crafting lines of code on Linux to unraveling the layers of cybersecurity, my passion for technology goes beyond just a career.
-
-{: .note }
-Even the most experienced developers don't know everything
-
-Over the years, my curiosity only deepened. I became a coder, learning languages like Python, JavaScript, and C++, and fell in love with the sheer power of programming. For me, coding isn’t just a skill; it’s a language for bringing ideas to life. The thrill of debugging, the satisfaction of building something from scratch, and the endless potential of code keep me motivated every day. Coding lets me shape my vision into reality, one line at a time.
-
-> Curiosity fuels my code, Linux keeps me grounded, and every bug is just a puzzle waiting to be solved.
-
-Linux was a turning point. Once I got into Linux, I realized how transformative open-source software could be. I started with Ubuntu, dabbled in Debian, and eventually moved on to Arch. Linux taught me how customizable, flexible, and free technology could truly be. It’s more than an operating system—it’s a philosophy that resonates with my love for exploration and problem-solving. My Linux setup is always evolving, whether I'm configuring a new window manager or experimenting with terminal commands. It’s like a puzzle I never get tired of solving.
-
-<div class="gallery-box">
-  <div class="gallery gallery-columns-2">
-    {% include img.html src ="/images/01-4.jpg" alt="Keyboard" caption="The symphony of keys" %}
-    {% include img.html src ="/images/01-5.jpg" alt="Keyboard" caption="Where every keystroke brings ideas to life" %}
-    {% include img.html src ="/images/01-6.jpg" alt="Keyboard" caption="The quiet hum of creativity" %}
-    {% include img.html src ="/images/01-7.jpg" alt="Keyboard" caption="Ready to transform thoughts into text" %}
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
-
-Gaming is another integral part of my story. Growing up with video games, I’ve seen firsthand how gaming has evolved from simple pixelated platforms to immersive, narrative-driven experiences. My love for gaming goes beyond just playing; I enjoy analyzing game mechanics, studying character design, and understanding the technology behind these virtual worlds. Indie games hold a special place in my heart because they represent the creativity and innovation of small teams that pour their souls into making something unique.
-
-```js
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-```
-
-When I’m not coding or gaming, I’m diving into the world of comics and sci-fi movies. Both are more than hobbies—they’re ways to explore the “what ifs” of life. Comics taught me that even fictional heroes have real struggles, and sci-fi movies sparked my imagination about the future.
-
-## The Mind Behind the Keyboard
-
-Building this blog has been a passion project. It’s a place where I can share my journey, document what I learn, and connect with people who have the same interests. I’ve written countless tutorials, tech tips, and reviews because I want to create a resource I wish I had when I was starting out. The tech world can be intimidating, but it doesn’t have to be. Thоrough this blog, I hope to make technology accessible, fun, and rewarding for people of all skill levels.
-
-![Keyboard]({{site.baseurl}}/images/01-3.jpg)
-*Photo by [Pablo Stanley](https://www.lummi.ai/photo/contemplative-technicolor-workstation-sonrb) on [Lummi](https://www.lummi.ai/)*
-
-Looking back, I see that each step in my journey—whether it was installing my first Linux distro, debugging my first program, or exploring cybersecurity—has shaped me into who I am today.
-
-The geek in me thrives on discovery, and as I explore new topics and skills, I’m reminded that there’s always more to learn. That’s the beauty of the tech world: no matter how much you know, there’s always a new challenge or a new horizon waiting.
-
-{: .important }
-Automate repetitive tasks. If you find yourself doing the same task multiple times, it's a sign you should automate it.
-
-Thank you for being here and for sharing in this journey with me. This blog is more than just articles and posts; it’s a community of curious, passionate individuals who love technology, creativity, and the endless pursuit of knowledge. Whether you’re a fellow Linux enthusiast, a developer looking for new ideas, or just someone curious about the digital world, I’m excited to connect and share this space with you.
+> Because great storytelling isn't just creative - it's engineered.
