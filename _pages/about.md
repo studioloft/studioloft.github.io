@@ -43,7 +43,7 @@ permalink: /about/
 
             {% if site.data.settings.hero.hero_button_text %}
             <a href="{{ site.data.settings.hero.hero_button_link }}" class="hero__button button button--primary">{{ site.data.settings.hero.hero_button_text }}</a>
-            <a href="mailto:Contact@StudioLoftMedia.com" class="hero__button button button--primary">button test</a>
+            <a href="mailto:Contact@StudioLoftMedia.com" class="hero__button button button--primary">"<i class="fa-solid fa-envelope"></i> Email Me"</a>
             {% endif %}
           </div>
         </div>
