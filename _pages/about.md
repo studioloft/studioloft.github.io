@@ -54,6 +54,19 @@ permalink: /about/
 </section>
 <!-- end hero -->
 
+<!-- begin social -->
+<div class="widget widget-social">
+  <ul class="widget-social__list list-reset">
+    {% for social in site.data.settings.social %}
+    <li class="widget-social__item">
+      <a class="widget-social__link" href="{{ social.link }}" target="_blank" rel="noopener"
+        aria-label="{{ social.name }} link"><i class="{{ social.icon }}"></i></a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+<!-- end social -->
+
 Hi, I'm Gavin Hornak - I am a full-time Broadcast Engineering and IT Technologist with almost 2 decades of experience. I started Studio Loft Media in 2008, originally focued on media-industry education and resources helping early-career professionals understand the fundamentals of digital media and technical craft. Over time, the original mission caries on. As my career has transitioned more deeply into video engineering, live broadcast and IT infrastructure, Studio Loft evolved with me. Today Studio Loft expands on it's original intent, continuing to encourage learning and professional growth for anyone passionate about modern media technology.
 
 My hope is that Studio Loft becomes a resource for engineers, students, operators and creatives who want to understand not just what we build, but why it matters. I hope you walk away with practical insights and inspiration to build, experiment and push the industry forward.
