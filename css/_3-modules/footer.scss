@@ -4,12 +4,6 @@
   border-top: 1px solid var(--border-color);
   background: var(--background-alt-color-2);
 
-  /* Limit footer logo height without affecting header logo */
-  .footer .logo__image,
-  .footer .logo__image__dark {
-    max-height: 70px;
-  }
-
   .footer__title {
     margin-bottom: 24px;
     font-size: 24px;
