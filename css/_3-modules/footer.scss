@@ -41,6 +41,14 @@
   letter-spacing: -1px;
 }
 
+/* Limit footer logo height without affecting header logo */
+.footer .logo__image,
+.footer .logo__image__dark {
+  max-height: 70px;
+  height: auto;
+  width: auto;
+}
+
 .footer__info__description {
   margin: 0;
   font-size: 16px;
