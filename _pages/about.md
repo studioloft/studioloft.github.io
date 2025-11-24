@@ -75,6 +75,7 @@ Whether you're a student, a working creative, a future broadcast engineer or cur
       <a class="widget-social__link" href="{{ social.link }}" target="_blank" rel="noopener"
         aria-label="{{ social.name }} link"><i class="{{ social.icon }}"></i></a>
     </li>
+    > <cite>– Studio Loft Socials –</cite>
     {% endfor %}
   </ul>
 </div>
