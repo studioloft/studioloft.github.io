@@ -57,7 +57,8 @@ Hi, I'm Gavin Hornak - I am a a full-time Broadcast Engineering and IT Technolog
 
 My hope is that Studio Loft becomes a resource for engineers, students, operators and creatives who want to understand not just what we build, but why it matters. I hope you walk away with practical insights and inspiration to build, experiment and push the industry forward.
 
-
+{: .q-left }
+> “People think tech is rigid, but the truth is the opposite: once you understand the rules, you gain the freedom to bend them, optimize them, and build workflows no one else sees.”
 
 
 
